@@ -1,36 +1,7 @@
 $(document).ready(function() {
-	let decemberArray = [
-		'Quote 1',
-	    'Quote 2',
-	    'Quote 3',
-	    'Quote 4',
-	    'Quote 5',
-	    'Quote 6',
-	    'Quote 7',
-	    'Quote 8',
-	    'Quote 9',
-	    'Quote 10',
-	    'Quote 11',
-	    'Quote 12',
-	    'Quote 13',
-	    'Quote 14',
-	    'Quote 15',
-	    'Quote 16',
-	    'Quote 17',
-	    'Quote 18',
-	    'Quote 19',
-	    'Quote 20',
-	    'Quote 21',
-	    'Quote 22',
-	    'Quote 23',
-	    'Quote 24',
-	    'Quote 25',
-	    'Quote 26',
-	    'Quote 27',
-	    'Quote 28',
-	    'Quote 29',
-	    'Quote 30',
-	    'Quote 31'
+	let januaryArray = [
+		'&ldquo;Hope smiles from the threshold of the year to come, whispering, &lsquo;It will be happier.&rsquo;&rdquo; <br /> &mdash;Alfred Lord Tennyson',
+		'Quote #2'
     ]
 
 	let date = new Date()
@@ -98,7 +69,7 @@ $(document).ready(function() {
 
 	let year = date.getFullYear()
 
-	let dayOfYear = `<h2>${dayOfWeek}, <br /> ${monthOfYear} ${dayOfMonth}, <br /> ${year}</h2>`
+	let dayOfYear = `<h2>${dayOfWeek}, <br /> ${monthOfYear} ${dayOfMonth}, ${year}</h2>`
 	$('#dayOfYear').html(dayOfYear)
 
     let quote = monthArray[dayOfMonth - 1]
