@@ -1,7 +1,8 @@
 $(document).ready(function() {
 	let januaryArray = [
 		'&ldquo;Hope smiles from the threshold of the year to come, whispering, &lsquo;It will be happier.&rsquo;&rdquo; <br /> &mdash;Alfred Lord Tennyson',
-		'Quote #2'
+		'&ldquo;You must do the things you think you cannot do.&rdquo; <br /> &mdash;Eleanor Roosevelt',
+		'Quote #3'
     ]
 
 	let date = new Date()
