@@ -7,7 +7,8 @@ $(document).ready(function() {
 		'&ldquo;I love you &ndash; I am at rest with you &ndash; I have come home.&rdquo; <br /> &mdash;Dorothy L. Sayers',
 		'&ldquo;If you do not change direction, you may end up where you are heading.&rdquo; <br /> &mdash;Lao Tzu',
 		'&ldquo;The opportunity is often lost by deliberating.&rdquo; <br /> &mdash;Publilius Syrus',
-		'Quote #8'
+		'&ldquo;Common sense is not so common.&rdquo; <br /> &mdash;Voltaire',
+		'Quote #9'
     ]
 
 	let date = new Date()
