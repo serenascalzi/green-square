@@ -8,7 +8,8 @@ $(document).ready(function() {
 		'&ldquo;If you do not change direction, you may end up where you are heading.&rdquo; <br /> &mdash;Lao Tzu',
 		'&ldquo;The opportunity is often lost by deliberating.&rdquo; <br /> &mdash;Publilius Syrus',
 		'&ldquo;Common sense is not so common.&rdquo; <br /> &mdash;Voltaire',
-		'Quote #9'
+		'&ldquo;A lie can travel half way around the world while the truth is putting on its shoes.&rdquo; <br /> &mdash;Charles Spurgeon',
+		'Quote #10'
     ]
 
 	let date = new Date()
