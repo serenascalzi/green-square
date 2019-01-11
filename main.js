@@ -9,7 +9,8 @@ $(document).ready(function() {
 		'&ldquo;The opportunity is often lost by deliberating.&rdquo; <br /> &mdash;Publilius Syrus',
 		'&ldquo;Common sense is not so common.&rdquo; <br /> &mdash;Voltaire',
 		'&ldquo;A lie can travel half way around the world while the truth is putting on its shoes.&rdquo; <br /> &mdash;Charles Spurgeon',
-		'Quote #10'
+		'&ldquo;To live happily is an inward power of the soul.&rdquo; <br /> &mdash;Marcus Aurelius',
+		'Quote #11'
     ]
 
 	let date = new Date()
