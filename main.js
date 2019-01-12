@@ -10,7 +10,8 @@ $(document).ready(function() {
 		'&ldquo;Common sense is not so common.&rdquo; <br /> &mdash;Voltaire',
 		'&ldquo;A lie can travel half way around the world while the truth is putting on its shoes.&rdquo; <br /> &mdash;Charles Spurgeon',
 		'&ldquo;To live happily is an inward power of the soul.&rdquo; <br /> &mdash;Marcus Aurelius',
-		'Quote #11'
+		'&ldquo;To a smart girl men are no problem &ndash; they&rsquo;re the answer.&rdquo; <br /> &mdash;Zsa Zsa Gabor',
+		'Quote #12'
     ]
 
 	let date = new Date()
