@@ -15,8 +15,9 @@ $(document).ready(function() {
 		'&ldquo;Lord, make me an instrument of thy peace. Where there is hatred, let me sow love.&rdquo; <br /> &mdash;Francis of Assisi',
 		'&ldquo;Facts are stubborn, but statistics are more pliable.&rdquo; <br /> &mdash;Mark Twain',
 		'&ldquo;Love dies only when growth stops.&rdquo; <br /> &mdash;Pearl S. Buck',
+		'&ldquo;A happy life is one spent in learning, earning, and yearning.&rdquo; <br /> &mdash;Lillian Gish',
 		// '&ldquo; &rdquo; <br /> &mdash; ',
-		'Quote #16'
+		'Quote #17'
     ]
 
 	let date = new Date()
