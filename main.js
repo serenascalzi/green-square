@@ -16,8 +16,9 @@ $(document).ready(function() {
 		'&ldquo;Facts are stubborn, but statistics are more pliable.&rdquo; <br /> &mdash;Mark Twain',
 		'&ldquo;Love dies only when growth stops.&rdquo; <br /> &mdash;Pearl S. Buck',
 		'&ldquo;A happy life is one spent in learning, earning, and yearning.&rdquo; <br /> &mdash;Lillian Gish',
+		'&ldquo;But what is happiness except the simple harmony between a man and the life he leads?&rdquo; <br /> &mdash;Albert Camus',
 		// '&ldquo; &rdquo; <br /> &mdash; ',
-		'Quote #17'
+		'Quote #18'
     ]
 
 	let date = new Date()
