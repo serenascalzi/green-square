@@ -17,8 +17,9 @@ $(document).ready(function() {
 		'&ldquo;Love dies only when growth stops.&rdquo; <br /> &mdash;Pearl S. Buck',
 		'&ldquo;A happy life is one spent in learning, earning, and yearning.&rdquo; <br /> &mdash;Lillian Gish',
 		'&ldquo;But what is happiness except the simple harmony between a man and the life he leads?&rdquo; <br /> &mdash;Albert Camus',
+		'&ldquo;I am no bird; and no net ensnares me; I am a free human being with an independent will.&rdquo; <br /> &mdash;Charlotte Bronte',
 		// '&ldquo; &rdquo; <br /> &mdash; ',
-		'Quote #18'
+		'Quote #19'
     ]
 
 	let date = new Date()
