@@ -18,8 +18,9 @@ $(document).ready(function() {
 		'&ldquo;A happy life is one spent in learning, earning, and yearning.&rdquo; <br /> &mdash;Lillian Gish',
 		'&ldquo;But what is happiness except the simple harmony between a man and the life he leads?&rdquo; <br /> &mdash;Albert Camus',
 		'&ldquo;I am no bird; and no net ensnares me; I am a free human being with an independent will.&rdquo; <br /> &mdash;Charlotte Bronte',
+		'&ldquo;We would accomplish many more things if we did not think of them as impossible.&rdquo; <br /> &mdash;Vince Lombardi',
 		// '&ldquo; &rdquo; <br /> &mdash; ',
-		'Quote #19'
+		'Quote #20'
     ]
 
 	let date = new Date()
