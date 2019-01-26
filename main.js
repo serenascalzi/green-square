@@ -24,8 +24,9 @@ $(document).ready(function() {
 		'&ldquo;It&rsquo;s not what happens to you, but how you react to it that matters.&rdquo; <br /> &mdash;Epictetus',
 		'&ldquo;This is what I learned: that everybody is talented, original and has something important to say.&rdquo; <br /> &mdash;Brenda Ueland',
 		'&ldquo;A man who has not passed through the inferno of his passions has never overcome them.&rdquo; <br /> &mdash;Carl Jung',
+		'&ldquo;If the only prayer you ever say in your entire life is thank you, it will be enough.&rdquo; <br /> &mdash;Meister Eckhart',
 		// '&ldquo; &rdquo; <br /> &mdash; ',
-		'Quote #25'
+		'Quote #26'
     ]
 
 	let date = new Date()
