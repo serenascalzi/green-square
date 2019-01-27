@@ -25,8 +25,9 @@ $(document).ready(function() {
 		'&ldquo;This is what I learned: that everybody is talented, original and has something important to say.&rdquo; <br /> &mdash;Brenda Ueland',
 		'&ldquo;A man who has not passed through the inferno of his passions has never overcome them.&rdquo; <br /> &mdash;Carl Jung',
 		'&ldquo;If the only prayer you ever say in your entire life is thank you, it will be enough.&rdquo; <br /> &mdash;Meister Eckhart',
+		'&ldquo;The secret of my influence has always been that it remained secret.&rdquo; <br /> &mdash;Salvador Dali',
 		// '&ldquo; &rdquo; <br /> &mdash; ',
-		'Quote #26'
+		'Quote #27'
     ]
 
 	let date = new Date()
