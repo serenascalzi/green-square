@@ -26,8 +26,9 @@ $(document).ready(function() {
 		'&ldquo;A man who has not passed through the inferno of his passions has never overcome them.&rdquo; <br /> &mdash;Carl Jung',
 		'&ldquo;If the only prayer you ever say in your entire life is thank you, it will be enough.&rdquo; <br /> &mdash;Meister Eckhart',
 		'&ldquo;The secret of my influence has always been that it remained secret.&rdquo; <br /> &mdash;Salvador Dali',
+		'&ldquo;A work of art is above all an adventure of the mind.&rdquo; <br /> &mdash;Eugene Ionesco',
 		// '&ldquo; &rdquo; <br /> &mdash; ',
-		'Quote #27'
+		'Quote #28'
     ]
 
 	let date = new Date()
