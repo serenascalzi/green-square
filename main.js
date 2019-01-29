@@ -27,8 +27,9 @@ $(document).ready(function() {
 		'&ldquo;If the only prayer you ever say in your entire life is thank you, it will be enough.&rdquo; <br /> &mdash;Meister Eckhart',
 		'&ldquo;The secret of my influence has always been that it remained secret.&rdquo; <br /> &mdash;Salvador Dali',
 		'&ldquo;A work of art is above all an adventure of the mind.&rdquo; <br /> &mdash;Eugene Ionesco',
+		'&ldquo;Before anything else, preparation is the key to success.&rdquo; <br /> &mdash;Alexander Graham Bell',
 		// '&ldquo; &rdquo; <br /> &mdash; ',
-		'Quote #28'
+		'Quote #29'
     ]
 
 	let date = new Date()
