@@ -28,8 +28,9 @@ $(document).ready(function() {
 		'&ldquo;The secret of my influence has always been that it remained secret.&rdquo; <br /> &mdash;Salvador Dali',
 		'&ldquo;A work of art is above all an adventure of the mind.&rdquo; <br /> &mdash;Eugene Ionesco',
 		'&ldquo;Before anything else, preparation is the key to success.&rdquo; <br /> &mdash;Alexander Graham Bell',
+		'&ldquo;Every man dies. Not every man really lives.&rdquo; <br /> &mdash;William Wallace',
 		// '&ldquo; &rdquo; <br /> &mdash; ',
-		'Quote #29'
+		'Quote #30'
     ]
 
 	let date = new Date()
