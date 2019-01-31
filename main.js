@@ -29,8 +29,8 @@ $(document).ready(function() {
 		'&ldquo;A work of art is above all an adventure of the mind.&rdquo; <br /> &mdash;Eugene Ionesco',
 		'&ldquo;Before anything else, preparation is the key to success.&rdquo; <br /> &mdash;Alexander Graham Bell',
 		'&ldquo;Every man dies. Not every man really lives.&rdquo; <br /> &mdash;William Wallace',
-		// '&ldquo; &rdquo; <br /> &mdash; ',
-		'Quote #30'
+		'&ldquo;People don&rsquo;t notice whether it&rsquo;s winter or summer when they&rsquo;re happy.&rdquo; <br /> &mdash;Anton Chekhov',
+		'Quote #31'
     ]
 
 	let date = new Date()
