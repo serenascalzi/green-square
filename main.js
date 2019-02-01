@@ -1,4 +1,9 @@
 $(document).ready(function() {
+	let februaryArray = [
+		'&ldquo;February 1 Quote&rdquo; <br /> &mdash; '
+		//'&ldquo; &rdquo; <br /> &mdash; '
+    ]
+
 	let januaryArray = [
 		'&ldquo;Hope smiles from the threshold of the year to come, whispering, &lsquo;It will be happier.&rsquo;&rdquo; <br /> &mdash;Alfred Lord Tennyson',
 		'&ldquo;You must do the things you think you cannot do.&rdquo; <br /> &mdash;Eleanor Roosevelt',
@@ -30,7 +35,7 @@ $(document).ready(function() {
 		'&ldquo;Before anything else, preparation is the key to success.&rdquo; <br /> &mdash;Alexander Graham Bell',
 		'&ldquo;Every man dies. Not every man really lives.&rdquo; <br /> &mdash;William Wallace',
 		'&ldquo;People don&rsquo;t notice whether it&rsquo;s winter or summer when they&rsquo;re happy.&rdquo; <br /> &mdash;Anton Chekhov',
-		'Quote #31'
+		'&ldquo;Neither blame or praise yourself.&rdquo; <br /> &mdash;Plutarch'
     ]
 
 	let date = new Date()
