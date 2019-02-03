@@ -1,8 +1,9 @@
 $(document).ready(function() {
 	let februaryArray = [
 		'&ldquo;Advice is like snow &ndash; the softer it falls, the longer it dwells upon, and the deeper it sinks into the mind.&rdquo; <br /> &mdash;Samuel Taylor Coleridge',
+		'&ldquo;Never bend your head. Always hold it high. Look the world straight in the eye.&rdquo; <br /> &mdash;Helen Keller',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;February 2 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;February 3 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let januaryArray = [
