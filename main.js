@@ -2,8 +2,9 @@ $(document).ready(function() {
 	let februaryArray = [
 		'&ldquo;Advice is like snow &ndash; the softer it falls, the longer it dwells upon, and the deeper it sinks into the mind.&rdquo; <br /> &mdash;Samuel Taylor Coleridge',
 		'&ldquo;Never bend your head. Always hold it high. Look the world straight in the eye.&rdquo; <br /> &mdash;Helen Keller',
+		'&ldquo;Wisdom is oftentimes nearer when we stoop than when we soar.&rdquo; <br /> &mdash;William Wordsworth',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;February 3 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;February 4 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let januaryArray = [
