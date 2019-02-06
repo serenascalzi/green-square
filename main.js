@@ -4,8 +4,9 @@ $(document).ready(function() {
 		'&ldquo;Never bend your head. Always hold it high. Look the world straight in the eye.&rdquo; <br /> &mdash;Helen Keller',
 		'&ldquo;Wisdom is oftentimes nearer when we stoop than when we soar.&rdquo; <br /> &mdash;William Wordsworth',
 		'&ldquo;The roots of all goodness lie in the soil of appreciation for goodness.&rdquo; <br /> &mdash;Dalai Lama',
+		'&ldquo;What we really are matters more than what other people think of us.&rdquo; <br /> &mdash;Jawaharlal Nehru',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;February 5 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;February 6 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let januaryArray = [
