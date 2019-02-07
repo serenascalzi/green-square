@@ -5,8 +5,9 @@ $(document).ready(function() {
 		'&ldquo;Wisdom is oftentimes nearer when we stoop than when we soar.&rdquo; <br /> &mdash;William Wordsworth',
 		'&ldquo;The roots of all goodness lie in the soil of appreciation for goodness.&rdquo; <br /> &mdash;Dalai Lama',
 		'&ldquo;What we really are matters more than what other people think of us.&rdquo; <br /> &mdash;Jawaharlal Nehru',
+		'&ldquo;There are years that ask questions and years that answer.&rdquo; <br /> &mdash;Zora Neale Hurston',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;February 6 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;February 7 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let januaryArray = [
