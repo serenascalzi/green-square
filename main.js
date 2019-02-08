@@ -7,8 +7,9 @@ $(document).ready(function() {
 		'&ldquo;What we really are matters more than what other people think of us.&rdquo; <br /> &mdash;Jawaharlal Nehru',
 		'&ldquo;There are years that ask questions and years that answer.&rdquo; <br /> &mdash;Zora Neale Hurston',
 		'&ldquo;Expect problems and eat them for breakfast.&rdquo; <br /> &mdash;Alfred A. Montapert',
+		'&ldquo;The sole meaning of life is to serve humanity.&rdquo; <br /> &mdash;Leo Tolstoy',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;February 8 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;February 9 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let januaryArray = [
