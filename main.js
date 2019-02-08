@@ -6,8 +6,9 @@ $(document).ready(function() {
 		'&ldquo;The roots of all goodness lie in the soil of appreciation for goodness.&rdquo; <br /> &mdash;Dalai Lama',
 		'&ldquo;What we really are matters more than what other people think of us.&rdquo; <br /> &mdash;Jawaharlal Nehru',
 		'&ldquo;There are years that ask questions and years that answer.&rdquo; <br /> &mdash;Zora Neale Hurston',
+		'&ldquo;Expect problems and eat them for breakfast.&rdquo; <br /> &mdash;Alfred A. Montapert',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;February 7 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;February 8 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let januaryArray = [
