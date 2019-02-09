@@ -8,8 +8,9 @@ $(document).ready(function() {
 		'&ldquo;There are years that ask questions and years that answer.&rdquo; <br /> &mdash;Zora Neale Hurston',
 		'&ldquo;Expect problems and eat them for breakfast.&rdquo; <br /> &mdash;Alfred A. Montapert',
 		'&ldquo;The sole meaning of life is to serve humanity.&rdquo; <br /> &mdash;Leo Tolstoy',
+		'&ldquo;Everything that irritates us about others can lead us to an understanding of ourselves.&rdquo; <br /> &mdash;Carl Jung',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;February 9 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;February 10 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let januaryArray = [
