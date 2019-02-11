@@ -10,8 +10,9 @@ $(document).ready(function() {
 		'&ldquo;The sole meaning of life is to serve humanity.&rdquo; <br /> &mdash;Leo Tolstoy',
 		'&ldquo;Everything that irritates us about others can lead us to an understanding of ourselves.&rdquo; <br /> &mdash;Carl Jung',
 		'&ldquo;Life lived for tomorrow will always be just a day away from being realized.&rdquo; <br /> &mdash;Leo Buscaglia',
+		'&ldquo;Treasure your relationships, not your possessions.&rdquo; <br /> &mdash;Anthony J. D&rsquo;Angelo',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;February 11 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;February 12 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let januaryArray = [
