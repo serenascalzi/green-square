@@ -11,8 +11,9 @@ $(document).ready(function() {
 		'&ldquo;Everything that irritates us about others can lead us to an understanding of ourselves.&rdquo; <br /> &mdash;Carl Jung',
 		'&ldquo;Life lived for tomorrow will always be just a day away from being realized.&rdquo; <br /> &mdash;Leo Buscaglia',
 		'&ldquo;Treasure your relationships, not your possessions.&rdquo; <br /> &mdash;Anthony J. D&rsquo;Angelo',
+		'&ldquo;It is the dim haze of mystery that adds enchantment to pursuit.&rdquo; <br /> &mdash;Antoine Rivarol',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;February 12 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;February 13 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let januaryArray = [
