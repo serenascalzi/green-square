@@ -12,8 +12,9 @@ $(document).ready(function() {
 		'&ldquo;Life lived for tomorrow will always be just a day away from being realized.&rdquo; <br /> &mdash;Leo Buscaglia',
 		'&ldquo;Treasure your relationships, not your possessions.&rdquo; <br /> &mdash;Anthony J. D&rsquo;Angelo',
 		'&ldquo;It is the dim haze of mystery that adds enchantment to pursuit.&rdquo; <br /> &mdash;Antoine Rivarol',
+		'&ldquo;There is no instinct like that of the heart.&rdquo; <br /> &mdash;Lord Byron',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;February 13 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;February 14 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let januaryArray = [
