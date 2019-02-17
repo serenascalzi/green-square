@@ -16,8 +16,9 @@ $(document).ready(function() {
 		'&ldquo;If you live to be a hundred, I want to live to be a hundred minus one day so I never have to live without you.&rdquo; <br /> &mdash;A. A. Milne',
 		'&ldquo;Home is any four walls that enclose the right person.&rdquo; <br /> &mdash;Helen Rowland',
 		'&ldquo;One word frees us of all the weight and pain in life. That word is love.&rdquo; <br /> &mdash;Sophocles',
+		'&ldquo;Do exactly what you would do if you felt most secure.&rdquo; <br /> &mdash;Meister Eckhart',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;February 17 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;February 18 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let januaryArray = [
