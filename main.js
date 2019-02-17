@@ -15,8 +15,9 @@ $(document).ready(function() {
 		'&ldquo;There is no instinct like that of the heart.&rdquo; <br /> &mdash;Lord Byron',
 		'&ldquo;If you live to be a hundred, I want to live to be a hundred minus one day so I never have to live without you.&rdquo; <br /> &mdash;A. A. Milne',
 		'&ldquo;Home is any four walls that enclose the right person.&rdquo; <br /> &mdash;Helen Rowland',
+		'&ldquo;One word frees us of all the weight and pain in life. That word is love.&rdquo; <br /> &mdash;Sophocles',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;February 16 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;February 17 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let januaryArray = [
