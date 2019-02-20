@@ -18,8 +18,9 @@ $(document).ready(function() {
 		'&ldquo;One word frees us of all the weight and pain in life. That word is love.&rdquo; <br /> &mdash;Sophocles',
 		'&ldquo;Do exactly what you would do if you felt most secure.&rdquo; <br /> &mdash;Meister Eckhart',
 		'&ldquo;Blessed are the young for they shall inherit the national debt.&rdquo; <br /> &mdash;Herbert Hoover',
+		'&ldquo;There is a thin line that separates laughter and pain, comedy and tragedy, humor and hurt.&rdquo; <br /> &mdash;Erma Bombeck',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;February 19 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;February 20 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let januaryArray = [
