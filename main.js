@@ -19,8 +19,9 @@ $(document).ready(function() {
 		'&ldquo;Do exactly what you would do if you felt most secure.&rdquo; <br /> &mdash;Meister Eckhart',
 		'&ldquo;Blessed are the young for they shall inherit the national debt.&rdquo; <br /> &mdash;Herbert Hoover',
 		'&ldquo;There is a thin line that separates laughter and pain, comedy and tragedy, humor and hurt.&rdquo; <br /> &mdash;Erma Bombeck',
+		'&ldquo;The wish for healing has always been half of health.&rdquo; <br /> &mdash;Lucius Annaeus Seneca',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;February 20 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;February 21 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let januaryArray = [
