@@ -23,8 +23,9 @@ $(document).ready(function() {
 		'&ldquo;To the mind that is still, the whole universe surrenders.&rdquo; <br /> &mdash;Lao Tzu',
 		'&ldquo;The time you enjoy wasting is not wasted time.&rdquo; <br /> &mdash;Bertrand Russell',
 		'&ldquo;If you can&rsquo;t describe what you are doing as a process, you don&rsquo;t know what you&rsquo;re doing.&rdquo; <br /> &mdash;W. Edwards Deming',
+		'&ldquo;The eternal quest of the individual human being is to shatter his loneliness.&rdquo; <br /> &mdash;Norman Cousins',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;February 24 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;February 25 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let januaryArray = [
