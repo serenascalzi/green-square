@@ -21,8 +21,9 @@ $(document).ready(function() {
 		'&ldquo;There is a thin line that separates laughter and pain, comedy and tragedy, humor and hurt.&rdquo; <br /> &mdash;Erma Bombeck',
 		'&ldquo;The wish for healing has always been half of health.&rdquo; <br /> &mdash;Lucius Annaeus Seneca',
 		'&ldquo;To the mind that is still, the whole universe surrenders.&rdquo; <br /> &mdash;Lao Tzu',
+		'&ldquo;The time you enjoy wasting is not wasted time.&rdquo; <br /> &mdash;Bertrand Russell',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;February 22 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;February 23 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let januaryArray = [
