@@ -26,8 +26,9 @@ $(document).ready(function() {
 		'&ldquo;The eternal quest of the individual human being is to shatter his loneliness.&rdquo; <br /> &mdash;Norman Cousins',
 		'&ldquo;I believe in being an innovator.&rdquo; <br /> &mdash;Walt Disney',
 		'&ldquo;Great dancers are not great because of their technique, they are great because of their passion.&rdquo; <br /> &mdash;Martha Graham',
+		'&ldquo;I believe that every human mind feels pleasure in doing good to another.&rdquo; <br /> &mdash;Thomas Jefferson',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;February 27 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;February 28 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let januaryArray = [
