@@ -25,8 +25,9 @@ $(document).ready(function() {
 		'&ldquo;If you can&rsquo;t describe what you are doing as a process, you don&rsquo;t know what you&rsquo;re doing.&rdquo; <br /> &mdash;W. Edwards Deming',
 		'&ldquo;The eternal quest of the individual human being is to shatter his loneliness.&rdquo; <br /> &mdash;Norman Cousins',
 		'&ldquo;I believe in being an innovator.&rdquo; <br /> &mdash;Walt Disney',
+		'&ldquo;Great dancers are not great because of their technique, they are great because of their passion.&rdquo; <br /> &mdash;Martha Graham',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;February 26 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;February 27 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let januaryArray = [
