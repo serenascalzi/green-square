@@ -1,4 +1,9 @@
 $(document).ready(function() {
+	let marchArray = [
+		//'&ldquo; &rdquo; <br /> &mdash; ',
+		'&ldquo;March 1 Quote&rdquo; <br /> &mdash;Attribution'
+    ]
+
 	let februaryArray = [
 		'&ldquo;Advice is like snow &ndash; the softer it falls, the longer it dwells upon, and the deeper it sinks into the mind.&rdquo; <br /> &mdash;Samuel Taylor Coleridge',
 		'&ldquo;Never bend your head. Always hold it high. Look the world straight in the eye.&rdquo; <br /> &mdash;Helen Keller',
@@ -28,8 +33,7 @@ $(document).ready(function() {
 		'&ldquo;Great dancers are not great because of their technique, they are great because of their passion.&rdquo; <br /> &mdash;Martha Graham',
 		'&ldquo;I believe that every human mind feels pleasure in doing good to another.&rdquo; <br /> &mdash;Thomas Jefferson',
 		'&ldquo;Perfection is attained by slow degrees; it requires the hand of time.&rdquo; <br /> &mdash;Voltaire',
-		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;February 29 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;You can never plan the future by the past.&rdquo; <br /> &mdash;Edmund Burke'
     ]
 
 	let januaryArray = [
