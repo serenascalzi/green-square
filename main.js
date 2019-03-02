@@ -1,7 +1,8 @@
 $(document).ready(function() {
 	let marchArray = [
+		'&ldquo;When one paints an ideal, one does not need to limit one&rsquo;s imagination.&rdquo; <br /> &mdash;Ellen Key',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;March 1 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;March 2 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let februaryArray = [
