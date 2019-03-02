@@ -27,8 +27,9 @@ $(document).ready(function() {
 		'&ldquo;I believe in being an innovator.&rdquo; <br /> &mdash;Walt Disney',
 		'&ldquo;Great dancers are not great because of their technique, they are great because of their passion.&rdquo; <br /> &mdash;Martha Graham',
 		'&ldquo;I believe that every human mind feels pleasure in doing good to another.&rdquo; <br /> &mdash;Thomas Jefferson',
+		'&ldquo;Perfection is attained by slow degrees; it requires the hand of time.&rdquo; <br /> &mdash;Voltaire',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;February 28 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;February 29 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let januaryArray = [
