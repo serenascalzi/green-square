@@ -3,8 +3,9 @@ $(document).ready(function() {
 		'&ldquo;When one paints an ideal, one does not need to limit one&rsquo;s imagination.&rdquo; <br /> &mdash;Ellen Key',
 		'&ldquo;Let there be work, bread, water and salt for all.&rdquo; <br /> &mdash;Nelson Mandela',
 		'&ldquo;The richest love is that which submits to the arbitration of time.&rdquo; <br /> &mdash;Lawrence Durrell',
+		'&ldquo;Don&rsquo;t grieve. Anything you lose comes round in another form.&rdquo; <br /> &mdash;Rumi',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;March 4 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;March 5 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let februaryArray = [
