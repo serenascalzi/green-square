@@ -6,8 +6,9 @@ $(document).ready(function() {
 		'&ldquo;Don&rsquo;t grieve. Anything you lose comes round in another form.&rdquo; <br /> &mdash;Rumi',
 		'&ldquo;It is easier to prevent bad habits than to break them.&rdquo; <br /> &mdash;Benjamin Franklin',
 		'&ldquo;No one can figure out your worth but you.&rdquo; <br /> &mdash;Pearl Bailey',
+		'&ldquo;Life is given to us, we earn it by giving it.&rdquo; <br /> &mdash;Rabindranath Tagore',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;March 7 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;March 8 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let februaryArray = [
