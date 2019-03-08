@@ -5,8 +5,9 @@ $(document).ready(function() {
 		'&ldquo;The richest love is that which submits to the arbitration of time.&rdquo; <br /> &mdash;Lawrence Durrell',
 		'&ldquo;Don&rsquo;t grieve. Anything you lose comes round in another form.&rdquo; <br /> &mdash;Rumi',
 		'&ldquo;It is easier to prevent bad habits than to break them.&rdquo; <br /> &mdash;Benjamin Franklin',
+		'&ldquo;No one can figure out your worth but you.&rdquo; <br /> &mdash;Pearl Bailey',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;March 6 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;March 7 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let februaryArray = [
