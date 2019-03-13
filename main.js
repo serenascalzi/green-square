@@ -11,8 +11,9 @@ $(document).ready(function() {
 		'&ldquo;Respect is what we owe; love, what we give.&rdquo; <br /> &mdash;Philip James Bailey',
 		'&ldquo;Surprise is the greatest gift which life can grant us.&rdquo; <br /> &mdash;Boris Pasternak',
 		'&ldquo;One who deceives will always find those who allow themselves to be deceived.&rdquo; <br /> &mdash;Niccolo Machiavelli',
+		'&ldquo;Fortune favors the prepared mind.&rdquo; <br /> &mdash;Louis Pasteur',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;March 12 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;March 13 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let februaryArray = [
