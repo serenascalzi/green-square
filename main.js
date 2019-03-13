@@ -10,8 +10,9 @@ $(document).ready(function() {
 		'&ldquo;Tomorrow is only found in the calendar of fools.&rdquo; <br /> &mdash;Og Mandino',
 		'&ldquo;Respect is what we owe; love, what we give.&rdquo; <br /> &mdash;Philip James Bailey',
 		'&ldquo;Surprise is the greatest gift which life can grant us.&rdquo; <br /> &mdash;Boris Pasternak',
+		'&ldquo;One who deceives will always find those who allow themselves to be deceived.&rdquo; <br /> &mdash;Niccolo Machiavelli',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;March 11 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;March 12 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let februaryArray = [
