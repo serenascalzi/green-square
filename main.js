@@ -7,8 +7,9 @@ $(document).ready(function() {
 		'&ldquo;It is easier to prevent bad habits than to break them.&rdquo; <br /> &mdash;Benjamin Franklin',
 		'&ldquo;No one can figure out your worth but you.&rdquo; <br /> &mdash;Pearl Bailey',
 		'&ldquo;Life is given to us, we earn it by giving it.&rdquo; <br /> &mdash;Rabindranath Tagore',
+		'&ldquo;Tomorrow is only found in the calendar of fools.&rdquo; <br /> &mdash;Og Mandino',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;March 8 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;March 9 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let februaryArray = [
