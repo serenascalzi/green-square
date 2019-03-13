@@ -8,8 +8,9 @@ $(document).ready(function() {
 		'&ldquo;No one can figure out your worth but you.&rdquo; <br /> &mdash;Pearl Bailey',
 		'&ldquo;Life is given to us, we earn it by giving it.&rdquo; <br /> &mdash;Rabindranath Tagore',
 		'&ldquo;Tomorrow is only found in the calendar of fools.&rdquo; <br /> &mdash;Og Mandino',
+		'&ldquo;Respect is what we owe; love, what we give.&rdquo; <br /> &mdash;Philip James Bailey',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;March 9 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;March 10 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let februaryArray = [
