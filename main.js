@@ -14,8 +14,9 @@ $(document).ready(function() {
 		'&ldquo;Fortune favors the prepared mind.&rdquo; <br /> &mdash;Louis Pasteur',
 		'&ldquo;My religion is very simple. My religion is kindness.&rdquo; <br /> &mdash;Dalai Lama',
 		'&ldquo;A will finds a way.&rdquo; <br /> &mdash;Orison Swett Marden',
+		'&ldquo;Love takes off masks that we fear we cannot live without and know we cannot live within.&rdquo; <br /> &mdash;James Baldwin',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;March 15 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;March 16 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let februaryArray = [
