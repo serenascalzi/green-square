@@ -17,8 +17,9 @@ $(document).ready(function() {
 		'&ldquo;Love takes off masks that we fear we cannot live without and know we cannot live within.&rdquo; <br /> &mdash;James Baldwin',
 		'&ldquo;Try to keep your soul young and quivering right up to old age.&rdquo; <br /> &mdash;George Sand',
 		'&ldquo;Be true to your work, your word, and your friend.&rdquo; <br /> &mdash;John Boyle O&rsquo;Reilly',
+		'&ldquo;Who has a harder fight than he who is striving to overcome himself.&rdquo; <br /> &mdash;Thomas &agrave; Kempis',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;March 18 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;March 19 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let februaryArray = [
