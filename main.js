@@ -23,8 +23,9 @@ $(document).ready(function() {
 		'&ldquo;You exist only in what you do.&rdquo; <br /> &mdash;Federico Fellini',
 		'&ldquo;Success is the sum of small efforts &ndash; repeated day in and day out.&rdquo; <br /> &mdash;Robert Collier',
 		'&ldquo;Truth is strong, and sometime or other will prevail.&rdquo; <br /> &mdash;Mary Astell',
+		'&ldquo;Idealism increases in direct proportion to one&rsquo;s distance from the problem.&rdquo; <br /> &mdash;John Galsworthy',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;March 24 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;March 25 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let februaryArray = [
@@ -154,7 +155,7 @@ $(document).ready(function() {
 		monthArray = decemberArray
 	}
 
-	let dayOfMonth = date.getDate() - 2
+	let dayOfMonth = date.getDate() - 1
 
 	let year = date.getFullYear()
 
