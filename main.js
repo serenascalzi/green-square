@@ -21,8 +21,9 @@ $(document).ready(function() {
 		'&ldquo;It&rsquo;s hard to be humble, when you&rsquo;re as great as I am.&rdquo; <br /> &mdash;Muhammad Ali',
 		'&ldquo;Most people have the will to win, few have the will to prepare to win.&rdquo; <br /> &mdash;Bobby Knight',
 		'&ldquo;You exist only in what you do.&rdquo; <br /> &mdash;Federico Fellini',
+		'&ldquo;Success is the sum of small efforts &ndash; repeated day in and day out.&rdquo; <br /> &mdash;Robert Collier',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;March 22 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;March 23 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let februaryArray = [
