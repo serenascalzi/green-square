@@ -20,8 +20,9 @@ $(document).ready(function() {
 		'&ldquo;Who has a harder fight than he who is striving to overcome himself.&rdquo; <br /> &mdash;Thomas &agrave; Kempis',
 		'&ldquo;It&rsquo;s hard to be humble, when you&rsquo;re as great as I am.&rdquo; <br /> &mdash;Muhammad Ali',
 		'&ldquo;Most people have the will to win, few have the will to prepare to win.&rdquo; <br /> &mdash;Bobby Knight',
+		'&ldquo;You exist only in what you do.&rdquo; <br /> &mdash;Federico Fellini',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;March 21 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;March 22 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let februaryArray = [
