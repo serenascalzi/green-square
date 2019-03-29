@@ -25,8 +25,9 @@ $(document).ready(function() {
 		'&ldquo;Truth is strong, and sometime or other will prevail.&rdquo; <br /> &mdash;Mary Astell',
 		'&ldquo;Idealism increases in direct proportion to one&rsquo;s distance from the problem.&rdquo; <br /> &mdash;John Galsworthy',
 		'&ldquo;Don&rsquo;t cry because it&rsquo;s over. Smile because it happened.&rdquo; <br /> &mdash;Dr. Seuss',
+		'&ldquo;Anyone who has never made a mistake has never tried anything new.&rdquo; <br /> &mdash;Albert Einstein',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;March 26 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;March 27 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let februaryArray = [
