@@ -27,8 +27,9 @@ $(document).ready(function() {
 		'&ldquo;Don&rsquo;t cry because it&rsquo;s over. Smile because it happened.&rdquo; <br /> &mdash;Dr. Seuss',
 		'&ldquo;Anyone who has never made a mistake has never tried anything new.&rdquo; <br /> &mdash;Albert Einstein',
 		'&ldquo;Avoid popularity; it has many snares, and no real benefit.&rdquo; <br /> &mdash;William Penn',
+		'&ldquo;Of all possessions a friend is the most precious.&rdquo; <br /> &mdash;Herodotus',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;March 28 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;March 29 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let februaryArray = [
