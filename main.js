@@ -29,8 +29,9 @@ $(document).ready(function() {
 		'&ldquo;Avoid popularity; it has many snares, and no real benefit.&rdquo; <br /> &mdash;William Penn',
 		'&ldquo;Of all possessions a friend is the most precious.&rdquo; <br /> &mdash;Herodotus',
 		'&ldquo;Where there is great love, there are always wishes.&rdquo; <br /> &mdash;Willa Cather',
+		'&ldquo;We have all the light we need, we just need to put it in practice.&rdquo; <br /> &mdash;Albert Pike',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;March 30 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;March 31 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let februaryArray = [
