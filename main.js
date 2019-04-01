@@ -1,4 +1,9 @@
 $(document).ready(function() {
+	let aprilArray = [
+		//'&ldquo; &rdquo; <br /> &mdash; ',
+		'&ldquo;April 1 Quote&rdquo; <br /> &mdash;Attribution'
+    ]
+
 	let marchArray = [
 		'&ldquo;When one paints an ideal, one does not need to limit one&rsquo;s imagination.&rdquo; <br /> &mdash;Ellen Key',
 		'&ldquo;Let there be work, bread, water and salt for all.&rdquo; <br /> &mdash;Nelson Mandela',
@@ -30,8 +35,7 @@ $(document).ready(function() {
 		'&ldquo;Of all possessions a friend is the most precious.&rdquo; <br /> &mdash;Herodotus',
 		'&ldquo;Where there is great love, there are always wishes.&rdquo; <br /> &mdash;Willa Cather',
 		'&ldquo;We have all the light we need, we just need to put it in practice.&rdquo; <br /> &mdash;Albert Pike',
-		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;March 31 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;O, wind, if winter comes, can spring be far behind?&rdquo; <br /> &mdash;Percy Bysshe Shelley'
     ]
 
 	let februaryArray = [
