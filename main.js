@@ -28,8 +28,9 @@ $(document).ready(function() {
 		'&ldquo;Anyone who has never made a mistake has never tried anything new.&rdquo; <br /> &mdash;Albert Einstein',
 		'&ldquo;Avoid popularity; it has many snares, and no real benefit.&rdquo; <br /> &mdash;William Penn',
 		'&ldquo;Of all possessions a friend is the most precious.&rdquo; <br /> &mdash;Herodotus',
+		'&ldquo;Where there is great love, there are always wishes.&rdquo; <br /> &mdash;Willa Cather',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;March 29 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;March 30 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let februaryArray = [
