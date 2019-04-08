@@ -1,7 +1,8 @@
 $(document).ready(function() {
 	let aprilArray = [
+		'&ldquo;Wise men speak because they have something to say; Fools because they have to say something.&rdquo; <br /> &mdash;Plato',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;April 1 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;April 2 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let marchArray = [
