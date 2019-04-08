@@ -4,8 +4,9 @@ $(document).ready(function() {
 		'&ldquo;Success is never final, failure is never fatal. It&rsquo;s courage that counts.&rdquo; <br /> &mdash;John Wooden',
 		'&ldquo;The only sure weapon against bad ideas is better ideas.&rdquo; <br /> &mdash;Alfred Whitney Griswold',
 		'&ldquo;If you&rsquo;re going through hell, keep going.&rdquo; <br /> &mdash;Winston Churchill',
+		'&ldquo;There is always room at the top.&rdquo; <br /> &mdash;Daniel Webster',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;April 5 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;April 6 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let marchArray = [
