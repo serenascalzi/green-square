@@ -5,8 +5,9 @@ $(document).ready(function() {
 		'&ldquo;The only sure weapon against bad ideas is better ideas.&rdquo; <br /> &mdash;Alfred Whitney Griswold',
 		'&ldquo;If you&rsquo;re going through hell, keep going.&rdquo; <br /> &mdash;Winston Churchill',
 		'&ldquo;There is always room at the top.&rdquo; <br /> &mdash;Daniel Webster',
+		'&ldquo;One way to get the most out of life is to look upon it as an adventure.&rdquo; <br /> &mdash;William Feather',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;April 6 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;April 7 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let marchArray = [
