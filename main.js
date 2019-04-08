@@ -6,8 +6,9 @@ $(document).ready(function() {
 		'&ldquo;If you&rsquo;re going through hell, keep going.&rdquo; <br /> &mdash;Winston Churchill',
 		'&ldquo;There is always room at the top.&rdquo; <br /> &mdash;Daniel Webster',
 		'&ldquo;One way to get the most out of life is to look upon it as an adventure.&rdquo; <br /> &mdash;William Feather',
+		'&ldquo;Let us put our minds together and see what life we can make for our children.&rdquo; <br /> &mdash;Sitting Bull',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;April 7 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;April 8 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let marchArray = [
