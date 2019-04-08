@@ -2,8 +2,9 @@ $(document).ready(function() {
 	let aprilArray = [
 		'&ldquo;Wise men speak because they have something to say; Fools because they have to say something.&rdquo; <br /> &mdash;Plato',
 		'&ldquo;Success is never final, failure is never fatal. It&rsquo;s courage that counts.&rdquo; <br /> &mdash;John Wooden',
+		'&ldquo;The only sure weapon against bad ideas is better ideas.&rdquo; <br /> &mdash;Alfred Whitney Griswold',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;April 3 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;April 4 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let marchArray = [
