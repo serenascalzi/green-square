@@ -7,8 +7,9 @@ $(document).ready(function() {
 		'&ldquo;There is always room at the top.&rdquo; <br /> &mdash;Daniel Webster',
 		'&ldquo;One way to get the most out of life is to look upon it as an adventure.&rdquo; <br /> &mdash;William Feather',
 		'&ldquo;Let us put our minds together and see what life we can make for our children.&rdquo; <br /> &mdash;Sitting Bull',
+		'&ldquo;We are going to have peace even if we have to fight for it.&rdquo; <br /> &mdash;Dwight D. Eisenhower',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;April 8 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;April 9 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let marchArray = [
