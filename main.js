@@ -14,8 +14,9 @@ $(document).ready(function() {
 		'&ldquo;Perfection is the child of time.&rdquo; <br /> &mdash;Joseph Hall',
 		'&ldquo;The glow of one warm thought is to me worth more than money.&rdquo; <br /> &mdash;Thomas Jefferson',
 		'&ldquo;Innovation distinguishes between a leader and a follower.&rdquo; <br /> &mdash;Steve Jobs',
+		'&ldquo;In this world nothing can be said to be certain, except death and taxes.&rdquo; <br /> &mdash;Benjamin Franklin',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;April 15 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;April 16 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let marchArray = [
