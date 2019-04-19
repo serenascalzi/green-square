@@ -15,8 +15,9 @@ $(document).ready(function() {
 		'&ldquo;The glow of one warm thought is to me worth more than money.&rdquo; <br /> &mdash;Thomas Jefferson',
 		'&ldquo;Innovation distinguishes between a leader and a follower.&rdquo; <br /> &mdash;Steve Jobs',
 		'&ldquo;In this world nothing can be said to be certain, except death and taxes.&rdquo; <br /> &mdash;Benjamin Franklin',
+		'&ldquo;A people free to choose will always choose peace.&rdquo; <br /> &mdash;Ronald Reagan',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;April 16 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;April 17 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let marchArray = [
