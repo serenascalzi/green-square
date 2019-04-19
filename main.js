@@ -13,8 +13,9 @@ $(document).ready(function() {
 		'&ldquo;All change is not growth, as all movement is not forward.&rdquo; <br /> &mdash;Ellen Glasgow',
 		'&ldquo;Perfection is the child of time.&rdquo; <br /> &mdash;Joseph Hall',
 		'&ldquo;The glow of one warm thought is to me worth more than money.&rdquo; <br /> &mdash;Thomas Jefferson',
+		'&ldquo;Innovation distinguishes between a leader and a follower.&rdquo; <br /> &mdash;Steve Jobs',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;April 14 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;April 15 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let marchArray = [
