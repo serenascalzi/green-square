@@ -12,8 +12,9 @@ $(document).ready(function() {
 		'&ldquo;Cherish all your happy moments; they make a fine cushion for old age.&rdquo; <br /> &mdash;Booth Tarkington',
 		'&ldquo;All change is not growth, as all movement is not forward.&rdquo; <br /> &mdash;Ellen Glasgow',
 		'&ldquo;Perfection is the child of time.&rdquo; <br /> &mdash;Joseph Hall',
+		'&ldquo;The glow of one warm thought is to me worth more than money.&rdquo; <br /> &mdash;Thomas Jefferson',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;April 13 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;April 14 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let marchArray = [
