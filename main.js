@@ -11,8 +11,9 @@ $(document).ready(function() {
 		'&ldquo;Find something you&rsquo;re passionate about and keep tremendously interested in it.&rdquo; <br /> &mdash;Julia Child',
 		'&ldquo;Cherish all your happy moments; they make a fine cushion for old age.&rdquo; <br /> &mdash;Booth Tarkington',
 		'&ldquo;All change is not growth, as all movement is not forward.&rdquo; <br /> &mdash;Ellen Glasgow',
+		'&ldquo;Perfection is the child of time.&rdquo; <br /> &mdash;Joseph Hall',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;April 12 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;April 13 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let marchArray = [
