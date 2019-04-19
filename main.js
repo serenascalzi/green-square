@@ -17,8 +17,9 @@ $(document).ready(function() {
 		'&ldquo;In this world nothing can be said to be certain, except death and taxes.&rdquo; <br /> &mdash;Benjamin Franklin',
 		'&ldquo;A people free to choose will always choose peace.&rdquo; <br /> &mdash;Ronald Reagan',
 		'&ldquo;The hardest thing to understand in the world is the income tax.&rdquo; <br /> &mdash;Albert Einstein',
+		'&ldquo;Better remain silent, better not even think, if you are not prepared to act.&rdquo; <br /> &mdash;Annie Besant',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;April 18 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;April 19 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let marchArray = [
