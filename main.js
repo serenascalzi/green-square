@@ -16,8 +16,9 @@ $(document).ready(function() {
 		'&ldquo;Innovation distinguishes between a leader and a follower.&rdquo; <br /> &mdash;Steve Jobs',
 		'&ldquo;In this world nothing can be said to be certain, except death and taxes.&rdquo; <br /> &mdash;Benjamin Franklin',
 		'&ldquo;A people free to choose will always choose peace.&rdquo; <br /> &mdash;Ronald Reagan',
+		'&ldquo;The hardest thing to understand in the world is the income tax.&rdquo; <br /> &mdash;Albert Einstein',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;April 17 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;April 18 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let marchArray = [
