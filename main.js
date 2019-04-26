@@ -22,8 +22,9 @@ $(document).ready(function() {
 		'&ldquo;God loves each of us as if there were only one of us.&rdquo; <br /> &mdash;Saint Augustine',
 		'&ldquo;A rebirth out of spiritual adversity causes us to become new creatures.&rdquo; <br /> &mdash;James E. Faust',
 		'&ldquo;Try to be like the turtle &ndash; at ease in your own shell.&rdquo; <br /> &mdash;Bill Copeland',
+		'&ldquo;Either I will find a way, or I will make one.&rdquo; <br /> &mdash;Philip Sidney',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;April 23 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;April 24 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let marchArray = [
