@@ -23,8 +23,9 @@ $(document).ready(function() {
 		'&ldquo;A rebirth out of spiritual adversity causes us to become new creatures.&rdquo; <br /> &mdash;James E. Faust',
 		'&ldquo;Try to be like the turtle &ndash; at ease in your own shell.&rdquo; <br /> &mdash;Bill Copeland',
 		'&ldquo;Either I will find a way, or I will make one.&rdquo; <br /> &mdash;Philip Sidney',
+		'&ldquo;What is a soul? It&rsquo;s like electricity &ndash; we don&rsquo;t really know what it is, but it&rsquo;s a force that can light a room.&rdquo; <br /> &mdash;Ray Charles',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;April 24 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;April 25 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let marchArray = [
