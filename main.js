@@ -18,8 +18,9 @@ $(document).ready(function() {
 		'&ldquo;A people free to choose will always choose peace.&rdquo; <br /> &mdash;Ronald Reagan',
 		'&ldquo;The hardest thing to understand in the world is the income tax.&rdquo; <br /> &mdash;Albert Einstein',
 		'&ldquo;Better remain silent, better not even think, if you are not prepared to act.&rdquo; <br /> &mdash;Annie Besant',
+		'&ldquo;No matter what people tell you, words and ideas can change the world.&rdquo; <br /> &mdash;Robin Williams',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;April 19 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;April 20 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let marchArray = [
