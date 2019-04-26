@@ -21,8 +21,9 @@ $(document).ready(function() {
 		'&ldquo;No matter what people tell you, words and ideas can change the world.&rdquo; <br /> &mdash;Robin Williams',
 		'&ldquo;God loves each of us as if there were only one of us.&rdquo; <br /> &mdash;Saint Augustine',
 		'&ldquo;A rebirth out of spiritual adversity causes us to become new creatures.&rdquo; <br /> &mdash;James E. Faust',
+		'&ldquo;Try to be like the turtle &ndash; at ease in your own shell.&rdquo; <br /> &mdash;Bill Copeland',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;April 22 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;April 23 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let marchArray = [
