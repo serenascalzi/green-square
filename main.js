@@ -19,8 +19,9 @@ $(document).ready(function() {
 		'&ldquo;The hardest thing to understand in the world is the income tax.&rdquo; <br /> &mdash;Albert Einstein',
 		'&ldquo;Better remain silent, better not even think, if you are not prepared to act.&rdquo; <br /> &mdash;Annie Besant',
 		'&ldquo;No matter what people tell you, words and ideas can change the world.&rdquo; <br /> &mdash;Robin Williams',
+		'&ldquo;God loves each of us as if there were only one of us.&rdquo; <br /> &mdash;Saint Augustine',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;April 20 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;April 21 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let marchArray = [
