@@ -25,8 +25,9 @@ $(document).ready(function() {
 		'&ldquo;Either I will find a way, or I will make one.&rdquo; <br /> &mdash;Philip Sidney',
 		'&ldquo;What is a soul? It&rsquo;s like electricity &ndash; we don&rsquo;t really know what it is, but it&rsquo;s a force that can light a room.&rdquo; <br /> &mdash;Ray Charles',
 		'&ldquo;We must not allow other people&rsquo;s limited perceptions to define us.&rdquo; <br /> &mdash;Virginia Satir',
+		'&ldquo;Nobody who ever gave his best regretted it.&rdquo; <br /> &mdash;George Halas',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;April 26 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;April 27 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let marchArray = [
