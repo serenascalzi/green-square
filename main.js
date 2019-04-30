@@ -27,8 +27,9 @@ $(document).ready(function() {
 		'&ldquo;We must not allow other people&rsquo;s limited perceptions to define us.&rdquo; <br /> &mdash;Virginia Satir',
 		'&ldquo;Nobody who ever gave his best regretted it.&rdquo; <br /> &mdash;George Halas',
 		'&ldquo;Ten people who speak make more noise than ten thousand who are silent.&rdquo; <br /> &mdash;Napoleon Bonaparte',
+		'&ldquo;There is always one moment in childhood when the door opens and lets the future in.&rdquo; <br /> &mdash;Graham Greene',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;April 28 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;April 29 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let marchArray = [
@@ -192,7 +193,7 @@ $(document).ready(function() {
 		monthArray = decemberArray
 	}
 
-	let dayOfMonth = date.getDate()
+	let dayOfMonth = date.getDate() - 1
 
 	let year = date.getFullYear()
 
