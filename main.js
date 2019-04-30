@@ -26,8 +26,9 @@ $(document).ready(function() {
 		'&ldquo;What is a soul? It&rsquo;s like electricity &ndash; we don&rsquo;t really know what it is, but it&rsquo;s a force that can light a room.&rdquo; <br /> &mdash;Ray Charles',
 		'&ldquo;We must not allow other people&rsquo;s limited perceptions to define us.&rdquo; <br /> &mdash;Virginia Satir',
 		'&ldquo;Nobody who ever gave his best regretted it.&rdquo; <br /> &mdash;George Halas',
+		'&ldquo;Ten people who speak make more noise than ten thousand who are silent.&rdquo; <br /> &mdash;Napoleon Bonaparte',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;April 27 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;April 28 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let marchArray = [
