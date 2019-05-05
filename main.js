@@ -2,8 +2,9 @@ $(document).ready(function() {
 	let mayArray = [
 		'&ldquo;Think in the morning. Act in the noon. Eat in the evening. Sleep in the night.&rdquo; <br /> &mdash;William Blake',
 		'&ldquo;Change your life today. Don&rsquo;t gamble on the future, act now, without delay.&rdquo; <br /> &mdash;Simone de Beauvoir',
+		'&ldquo;Reading is to the mind what exercise is to the body.&rdquo; <br /> &mdash;Joseph Addison',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;May 3 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;May 4 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let aprilArray = [
