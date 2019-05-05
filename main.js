@@ -1,4 +1,9 @@
 $(document).ready(function() {
+	let mayArray = [
+		//'&ldquo; &rdquo; <br /> &mdash; ',
+		'&ldquo;May 1 Quote&rdquo; <br /> &mdash;Attribution'
+    ]
+
 	let aprilArray = [
 		'&ldquo;Wise men speak because they have something to say; Fools because they have to say something.&rdquo; <br /> &mdash;Plato',
 		'&ldquo;Success is never final, failure is never fatal. It&rsquo;s courage that counts.&rdquo; <br /> &mdash;John Wooden',
@@ -29,8 +34,7 @@ $(document).ready(function() {
 		'&ldquo;Ten people who speak make more noise than ten thousand who are silent.&rdquo; <br /> &mdash;Napoleon Bonaparte',
 		'&ldquo;There is always one moment in childhood when the door opens and lets the future in.&rdquo; <br /> &mdash;Graham Greene',
 		'&ldquo;You can&rsquo;t wait for inspiration. You have to go after it with a club.&rdquo; <br /> &mdash;Jack London',
-		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;April 30 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;People change and forget to tell each other.&rdquo; <br /> &mdash;Lillian Hellman'
     ]
 
 	let marchArray = [
