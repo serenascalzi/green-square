@@ -4,8 +4,9 @@ $(document).ready(function() {
 		'&ldquo;Change your life today. Don&rsquo;t gamble on the future, act now, without delay.&rdquo; <br /> &mdash;Simone de Beauvoir',
 		'&ldquo;Reading is to the mind what exercise is to the body.&rdquo; <br /> &mdash;Joseph Addison',
 		'&ldquo;Your own mind is a sacred enclosure into which nothing harmful can enter expect by your permission.&rdquo; <br /> &mdash;Arnold Bennett',
+		'&ldquo;Love consists in this, that two solitudes protect and touch and greet each other.&rdquo; <br /> &mdash;Rainer Maria Rilke',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;May 5 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;May 6 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let aprilArray = [
