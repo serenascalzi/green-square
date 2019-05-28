@@ -9,8 +9,9 @@ $(document).ready(function() {
 		'&ldquo;What would life be if we had no courage to attempt anything?&rdquo; <br /> &mdash;Vincent Van Gogh',
 		'&ldquo;It is amazing what you can accomplish if you do not care who gets the credit.&rdquo; <br /> &mdash;Harry S. Truman',
 		'&ldquo;An effort made for the happiness of others lifts above ourselves.&rdquo; <br /> &mdash;Lydia M. Child',
+		'&ldquo;Tears of joy are like the summer rain drops pierced by sunbeams.&rdquo; <br /> &mdash;Hosea Ballou',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;May 10 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;May 11 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let aprilArray = [
