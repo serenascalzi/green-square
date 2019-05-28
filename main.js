@@ -6,8 +6,9 @@ $(document).ready(function() {
 		'&ldquo;Your own mind is a sacred enclosure into which nothing harmful can enter expect by your permission.&rdquo; <br /> &mdash;Arnold Bennett',
 		'&ldquo;Love consists in this, that two solitudes protect and touch and greet each other.&rdquo; <br /> &mdash;Rainer Maria Rilke',
 		'&ldquo;Imagination is the eye of the soul.&rdquo; <br /> &mdash;Joseph Joubert',
+		'&ldquo;What would life be if we had no courage to attempt anything?&rdquo; <br /> &mdash;Vincent Van Gogh',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;May 7 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;May 8 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let aprilArray = [
