@@ -7,8 +7,9 @@ $(document).ready(function() {
 		'&ldquo;Love consists in this, that two solitudes protect and touch and greet each other.&rdquo; <br /> &mdash;Rainer Maria Rilke',
 		'&ldquo;Imagination is the eye of the soul.&rdquo; <br /> &mdash;Joseph Joubert',
 		'&ldquo;What would life be if we had no courage to attempt anything?&rdquo; <br /> &mdash;Vincent Van Gogh',
+		'&ldquo;It is amazing what you can accomplish if you do not care who gets the credit.&rdquo; <br /> &mdash;Harry S. Truman',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;May 8 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;May 9 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let aprilArray = [
