@@ -13,8 +13,9 @@ $(document).ready(function() {
 		'&ldquo;I want to do with you what spring does with cherry trees.&rdquo; <br /> &mdash;Pablo Neruda',
 		'&ldquo;Mother is the name for God in the lips and hearts of little children.&rdquo; <br /> &mdash;William Makepeace Thackeray',
 		'&ldquo;The sun, the earth, love, friends, our very breath are parts of the banquet.&rdquo; <br /> &mdash;Rebecca Harding Davis',
+		'&ldquo;If you do not think about your future, you cannot have one.&rdquo; <br /> &mdash;John Galsworthy',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;May 14 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;May 15 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let aprilArray = [
