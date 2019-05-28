@@ -11,8 +11,9 @@ $(document).ready(function() {
 		'&ldquo;An effort made for the happiness of others lifts above ourselves.&rdquo; <br /> &mdash;Lydia M. Child',
 		'&ldquo;Tears of joy are like the summer rain drops pierced by sunbeams.&rdquo; <br /> &mdash;Hosea Ballou',
 		'&ldquo;I want to do with you what spring does with cherry trees.&rdquo; <br /> &mdash;Pablo Neruda',
+		'&ldquo;Mother is the name for God in the lips and hearts of little children.&rdquo; <br /> &mdash;William Makepeace Thackeray',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;May 12 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;May 13 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let aprilArray = [
