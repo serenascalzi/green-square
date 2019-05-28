@@ -8,8 +8,9 @@ $(document).ready(function() {
 		'&ldquo;Imagination is the eye of the soul.&rdquo; <br /> &mdash;Joseph Joubert',
 		'&ldquo;What would life be if we had no courage to attempt anything?&rdquo; <br /> &mdash;Vincent Van Gogh',
 		'&ldquo;It is amazing what you can accomplish if you do not care who gets the credit.&rdquo; <br /> &mdash;Harry S. Truman',
+		'&ldquo;An effort made for the happiness of others lifts above ourselves.&rdquo; <br /> &mdash;Lydia M. Child',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;May 9 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;May 10 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let aprilArray = [
