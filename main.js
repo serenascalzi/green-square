@@ -20,8 +20,9 @@ $(document).ready(function() {
 		'&ldquo;Nothing can be done except little by little.&rdquo; <br /> &mdash;Charles Baudelaire',
 		'&ldquo;Courage is fire, and bullying is smoke.&rdquo; <br /> &mdash;Benjamin Disraeli',
 		'&ldquo;There is no influence like the influence of habit.&rdquo; <br /> &mdash;Gilbert Parker',
+		'&ldquo;Rough diamonds may sometimes be mistaken for worthless pebbles.&rdquo; <br /> &mdash;Thomas Browne',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;May 21 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;May 22 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let aprilArray = [
