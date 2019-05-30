@@ -17,8 +17,9 @@ $(document).ready(function() {
 		'&ldquo;Have patience. All things are difficult before they become easy.&rdquo; <br /> &mdash;Saadi',
 		'&ldquo;Silence is the sleep that nourishes wisdom.&rdquo; <br /> &mdash;Francis Bacon',
 		'&ldquo;Remember upon the conduct of each depends the fate of all.&rdquo; <br /> &mdash;Alexander the Great',
+		'&ldquo;Nothing can be done except little by little.&rdquo; <br /> &mdash;Charles Baudelaire',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;May 18 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;May 19 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let aprilArray = [
