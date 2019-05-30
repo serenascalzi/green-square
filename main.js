@@ -16,8 +16,9 @@ $(document).ready(function() {
 		'&ldquo;If you do not think about your future, you cannot have one.&rdquo; <br /> &mdash;John Galsworthy',
 		'&ldquo;Have patience. All things are difficult before they become easy.&rdquo; <br /> &mdash;Saadi',
 		'&ldquo;Silence is the sleep that nourishes wisdom.&rdquo; <br /> &mdash;Francis Bacon',
+		'&ldquo;Remember upon the conduct of each depends the fate of all.&rdquo; <br /> &mdash;Alexander the Great',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;May 17 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;May 18 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let aprilArray = [
