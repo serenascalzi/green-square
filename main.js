@@ -27,8 +27,9 @@ $(document).ready(function() {
 		'&ldquo;The life of the dead is placed in the memory of the living.&rdquo; <br /> &mdash;Marcus Tullius Cicero',
 		'&ldquo;Appearances are a glimpse of the unseen.&rdquo; <br /> &mdash;Anaxagoras',
 		'&ldquo;Unless we remember we cannot understand.&rdquo; <br /> &mdash;E. M. Forster',
+		'&ldquo;My fellow Americans, ask not what your country can do for you, ask what you can do for your country.&rdquo; <br /> &mdash;John F. Kennedy',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;May 28 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;May 29 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let aprilArray = [
