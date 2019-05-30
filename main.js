@@ -24,8 +24,9 @@ $(document).ready(function() {
 		'&ldquo;Challenging the meaning of life is the truest expression of the state of being human.&rdquo; <br /> &mdash;Viktor E. Frankl',
 		'&ldquo;Judge a man by his questions rather than his answers.&rdquo; <br /> &mdash;Voltaire',
 		'&ldquo;Without craftsmanship, inspiration is a mere reed shaken in the wind.&rdquo; <br /> &mdash;Johannes Brahms',
+		'&ldquo;The life of the dead is placed in the memory of the living.&rdquo; <br /> &mdash;Marcus Tullius Cicero',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;May 25 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;May 26 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let aprilArray = [
