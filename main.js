@@ -19,8 +19,9 @@ $(document).ready(function() {
 		'&ldquo;Remember upon the conduct of each depends the fate of all.&rdquo; <br /> &mdash;Alexander the Great',
 		'&ldquo;Nothing can be done except little by little.&rdquo; <br /> &mdash;Charles Baudelaire',
 		'&ldquo;Courage is fire, and bullying is smoke.&rdquo; <br /> &mdash;Benjamin Disraeli',
+		'&ldquo;There is no influence like the influence of habit.&rdquo; <br /> &mdash;Gilbert Parker',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;May 20 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;May 21 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let aprilArray = [
