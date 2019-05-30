@@ -18,8 +18,9 @@ $(document).ready(function() {
 		'&ldquo;Silence is the sleep that nourishes wisdom.&rdquo; <br /> &mdash;Francis Bacon',
 		'&ldquo;Remember upon the conduct of each depends the fate of all.&rdquo; <br /> &mdash;Alexander the Great',
 		'&ldquo;Nothing can be done except little by little.&rdquo; <br /> &mdash;Charles Baudelaire',
+		'&ldquo;Courage is fire, and bullying is smoke.&rdquo; <br /> &mdash;Benjamin Disraeli',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;May 19 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;May 20 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let aprilArray = [
