@@ -26,8 +26,9 @@ $(document).ready(function() {
 		'&ldquo;Without craftsmanship, inspiration is a mere reed shaken in the wind.&rdquo; <br /> &mdash;Johannes Brahms',
 		'&ldquo;The life of the dead is placed in the memory of the living.&rdquo; <br /> &mdash;Marcus Tullius Cicero',
 		'&ldquo;Appearances are a glimpse of the unseen.&rdquo; <br /> &mdash;Anaxagoras',
+		'&ldquo;Unless we remember we cannot understand.&rdquo; <br /> &mdash;E. M. Forster',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;May 27 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;May 28 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let aprilArray = [
