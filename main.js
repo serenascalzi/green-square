@@ -22,8 +22,9 @@ $(document).ready(function() {
 		'&ldquo;There is no influence like the influence of habit.&rdquo; <br /> &mdash;Gilbert Parker',
 		'&ldquo;Rough diamonds may sometimes be mistaken for worthless pebbles.&rdquo; <br /> &mdash;Thomas Browne',
 		'&ldquo;Challenging the meaning of life is the truest expression of the state of being human.&rdquo; <br /> &mdash;Viktor E. Frankl',
+		'&ldquo;Judge a man by his questions rather than his answers.&rdquo; <br /> &mdash;Voltaire',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;May 23 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;May 24 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let aprilArray = [
