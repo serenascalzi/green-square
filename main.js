@@ -1,7 +1,8 @@
 $(document).ready(function() {
 	let juneArray = [
+		'&ldquo;Be not simply good &ndash; be good for something.&rdquo; <br /> &mdash;Henry David Thoreau',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;June 1 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;June 2 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let mayArray = [
