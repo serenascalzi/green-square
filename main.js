@@ -1,4 +1,9 @@
 $(document).ready(function() {
+	let juneArray = [
+		//'&ldquo; &rdquo; <br /> &mdash; ',
+		'&ldquo;June 1 Quote&rdquo; <br /> &mdash;Attribution'
+	]
+
 	let mayArray = [
 		'&ldquo;Think in the morning. Act in the noon. Eat in the evening. Sleep in the night.&rdquo; <br /> &mdash;William Blake',
 		'&ldquo;Change your life today. Don&rsquo;t gamble on the future, act now, without delay.&rdquo; <br /> &mdash;Simone de Beauvoir',
@@ -30,8 +35,7 @@ $(document).ready(function() {
 		'&ldquo;My fellow Americans, ask not what your country can do for you, ask what you can do for your country.&rdquo; <br /> &mdash;John F. Kennedy',
 		'&ldquo;My motto is: Contented with little, yet wishing for more.&rdquo; <br /> &mdash;Charles Lamb',
 		'&ldquo;Give light and people will find the way.&rdquo; <br /> &mdash;Ella Baker',
-		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;May 31 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;Gratitude is the fairest blossom which springs from the soul.&rdquo; <br /> &mdash;Henry Ward Beecher'
     ]
 
 	let aprilArray = [
