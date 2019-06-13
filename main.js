@@ -4,8 +4,9 @@ $(document).ready(function() {
 		'&ldquo;Zeal is a volcano, the peak of which the grass of indecisiveness does not grow.&rdquo; <br /> &mdash;Khalil Gibran',
 		'&ldquo;A friend is one who knows you and loves you just the same.&rdquo; <br /> &mdash;Elbert Hubbard',
 		'&ldquo;The greater our knowledge increases the more our ignorance unfolds.&rdquo; <br /> &mdash;John F. Kennedy',
+		'&ldquo;Principles have no real force except when one is well-fed.&rdquo; <br /> &mdash;Mark Twain',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;June 5 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;June 6 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let mayArray = [
