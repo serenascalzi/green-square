@@ -2,8 +2,9 @@ $(document).ready(function() {
 	let juneArray = [
 		'&ldquo;Be not simply good &ndash; be good for something.&rdquo; <br /> &mdash;Henry David Thoreau',
 		'&ldquo;Zeal is a volcano, the peak of which the grass of indecisiveness does not grow.&rdquo; <br /> &mdash;Khalil Gibran',
+		'&ldquo;A friend is one who knows you and loves you just the same.&rdquo; <br /> &mdash;Elbert Hubbard',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;June 3 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;June 4 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let mayArray = [
