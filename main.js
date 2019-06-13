@@ -5,8 +5,9 @@ $(document).ready(function() {
 		'&ldquo;A friend is one who knows you and loves you just the same.&rdquo; <br /> &mdash;Elbert Hubbard',
 		'&ldquo;The greater our knowledge increases the more our ignorance unfolds.&rdquo; <br /> &mdash;John F. Kennedy',
 		'&ldquo;Principles have no real force except when one is well-fed.&rdquo; <br /> &mdash;Mark Twain',
+		'&ldquo;It is the soothing thing about history that it does repeat itself.&rdquo; <br /> &mdash;Gertrude Stein',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;June 6 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;June 7 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let mayArray = [
