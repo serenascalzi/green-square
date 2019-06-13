@@ -29,8 +29,9 @@ $(document).ready(function() {
 		'&ldquo;Unless we remember we cannot understand.&rdquo; <br /> &mdash;E. M. Forster',
 		'&ldquo;My fellow Americans, ask not what your country can do for you, ask what you can do for your country.&rdquo; <br /> &mdash;John F. Kennedy',
 		'&ldquo;My motto is: Contented with little, yet wishing for more.&rdquo; <br /> &mdash;Charles Lamb',
+		'&ldquo;Give light and people will find the way.&rdquo; <br /> &mdash;Ella Baker',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;May 30 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;May 31 Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
 	let aprilArray = [
