@@ -8,8 +8,9 @@ $(document).ready(function() {
 		'&ldquo;It is the soothing thing about history that it does repeat itself.&rdquo; <br /> &mdash;Gertrude Stein',
 		'&ldquo;There are no shortcuts in evolution.&rdquo; <br /> &mdash;Louis D. Brandeis',
 		'&ldquo;Immorality: the morality of those who are having a better time.&rdquo; <br /> &mdash;H. L. Mencken',
+		'&ldquo;If you obey all the rules you miss all the fun.&rdquo; <br /> &mdash;Katharine Hepburn',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;June 9 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;June 10 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let mayArray = [
