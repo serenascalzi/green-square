@@ -3,8 +3,9 @@ $(document).ready(function() {
 		'&ldquo;Be not simply good &ndash; be good for something.&rdquo; <br /> &mdash;Henry David Thoreau',
 		'&ldquo;Zeal is a volcano, the peak of which the grass of indecisiveness does not grow.&rdquo; <br /> &mdash;Khalil Gibran',
 		'&ldquo;A friend is one who knows you and loves you just the same.&rdquo; <br /> &mdash;Elbert Hubbard',
+		'&ldquo;The greater our knowledge increases the more our ignorance unfolds.&rdquo; <br /> &mdash;John F. Kennedy',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;June 4 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;June 5 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let mayArray = [
