@@ -24,8 +24,9 @@ $(document).ready(function() {
 		'&ldquo;Opportunities are usually disguised as hard work, so most people don&rsquo;t recognize them.&rdquo; <br /> &mdash;Ann Landers',
 		'&ldquo;To find out what one is fitted to do, and to secure an opportunity to do it, is the key to happiness.&rdquo; <br /> &mdash;John Dewey',
 		'&ldquo;A photograph is a secret about a secret. The more it tells you the less you know.&rdquo; <br /> &mdash;Diane Arbus',
+		'&ldquo;Education is the movement from darkness to light.&rdquo; <br /> &mdash;Allan Bloom',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;June 25 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;June 26 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let mayArray = [
