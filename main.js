@@ -20,8 +20,9 @@ $(document).ready(function() {
 		'&ldquo;We cannot live only for ourselves. A thousand fibers connect us with our fellow men.&rdquo; <br /> &mdash;Herman Melville',
 		'&ldquo;Many a trip continues long after movement in time and space have ceased.&rdquo; <br /> &mdash;John Steinbeck',
 		'&ldquo;He who knows that enough is enough will always have enough.&rdquo; <br /> &mdash;Lao Tzu',
+		'&ldquo;There are two ways of spreading light: to be the candle or the mirror that reflects it.&rdquo; <br /> &mdash;Edith Wharton',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;June 21 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;June 22 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let mayArray = [
