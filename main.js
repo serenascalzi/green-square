@@ -19,8 +19,9 @@ $(document).ready(function() {
 		'&ldquo;It doesn&rsquo;t matter who my father was; it matters who I remember he was.&rdquo; <br /> &mdash;Anne Sexton',
 		'&ldquo;We cannot live only for ourselves. A thousand fibers connect us with our fellow men.&rdquo; <br /> &mdash;Herman Melville',
 		'&ldquo;Many a trip continues long after movement in time and space have ceased.&rdquo; <br /> &mdash;John Steinbeck',
+		'&ldquo;He who knows that enough is enough will always have enough.&rdquo; <br /> &mdash;Lao Tzu',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;June 20 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;June 21 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let mayArray = [
