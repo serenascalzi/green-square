@@ -17,8 +17,9 @@ $(document).ready(function() {
 		'&ldquo;Childhood is a short season.&rdquo; <br /> &mdash;Helen Hayes',
 		'&ldquo;I have a Father&rsquo;s Day every day.&rdquo; <br /> &mdash;Dennis Banks',
 		'&ldquo;It doesn&rsquo;t matter who my father was; it matters who I remember he was.&rdquo; <br /> &mdash;Anne Sexton',
+		'&ldquo;We cannot live only for ourselves. A thousand fibers connect us with our fellow men.&rdquo; <br /> &mdash;Herman Melville',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;June 18 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;June 19 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let mayArray = [
