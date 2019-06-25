@@ -12,8 +12,9 @@ $(document).ready(function() {
 		'&ldquo;No amount of experimentation can ever prove me right; a single experiment can prove me wrong.&rdquo; <br /> &mdash;Albert Einstein',
 		'&ldquo;You cannot shake hands with a clenched fist.&rdquo; <br /> &mdash;Indira Gandhi',
 		'&ldquo;Parents were invented to make children happy by giving them something to ignore.&rdquo; <br /> &mdash;Ogden Nash',
+		'&ldquo;I have never in my life learned anything from any man who agreed with me.&rdquo; <br /> &mdash;Dudley Field Malone',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;June 13 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;June 14 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let mayArray = [
