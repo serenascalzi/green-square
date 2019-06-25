@@ -22,8 +22,9 @@ $(document).ready(function() {
 		'&ldquo;He who knows that enough is enough will always have enough.&rdquo; <br /> &mdash;Lao Tzu',
 		'&ldquo;There are two ways of spreading light: to be the candle or the mirror that reflects it.&rdquo; <br /> &mdash;Edith Wharton',
 		'&ldquo;Opportunities are usually disguised as hard work, so most people don&rsquo;t recognize them.&rdquo; <br /> &mdash;Ann Landers',
+		'&ldquo;To find out what one is fitted to do, and to secure an opportunity to do it, is the key to happiness.&rdquo; <br /> &mdash;John Dewey',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;June 23 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;June 24 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let mayArray = [
