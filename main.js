@@ -14,8 +14,9 @@ $(document).ready(function() {
 		'&ldquo;Parents were invented to make children happy by giving them something to ignore.&rdquo; <br /> &mdash;Ogden Nash',
 		'&ldquo;I have never in my life learned anything from any man who agreed with me.&rdquo; <br /> &mdash;Dudley Field Malone',
 		'&ldquo;Formula for success: rise early, work hard, strike oil.&rdquo; <br /> &mdash;J. Paul Getty',
+		'&ldquo;Childhood is a short season.&rdquo; <br /> &mdash;Helen Hayes',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;June 15 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;June 16 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let mayArray = [
