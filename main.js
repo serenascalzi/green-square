@@ -21,8 +21,9 @@ $(document).ready(function() {
 		'&ldquo;Many a trip continues long after movement in time and space have ceased.&rdquo; <br /> &mdash;John Steinbeck',
 		'&ldquo;He who knows that enough is enough will always have enough.&rdquo; <br /> &mdash;Lao Tzu',
 		'&ldquo;There are two ways of spreading light: to be the candle or the mirror that reflects it.&rdquo; <br /> &mdash;Edith Wharton',
+		'&ldquo;Opportunities are usually disguised as hard work, so most people don&rsquo;t recognize them.&rdquo; <br /> &mdash;Ann Landers',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;June 22 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;June 23 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let mayArray = [
