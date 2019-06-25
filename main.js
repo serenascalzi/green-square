@@ -16,8 +16,9 @@ $(document).ready(function() {
 		'&ldquo;Formula for success: rise early, work hard, strike oil.&rdquo; <br /> &mdash;J. Paul Getty',
 		'&ldquo;Childhood is a short season.&rdquo; <br /> &mdash;Helen Hayes',
 		'&ldquo;I have a Father&rsquo;s Day every day.&rdquo; <br /> &mdash;Dennis Banks',
+		'&ldquo;It doesn&rsquo;t matter who my father was; it matters who I remember he was.&rdquo; <br /> &mdash;Anne Sexton',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;June 17 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;June 18 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let mayArray = [
