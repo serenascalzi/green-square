@@ -15,8 +15,9 @@ $(document).ready(function() {
 		'&ldquo;I have never in my life learned anything from any man who agreed with me.&rdquo; <br /> &mdash;Dudley Field Malone',
 		'&ldquo;Formula for success: rise early, work hard, strike oil.&rdquo; <br /> &mdash;J. Paul Getty',
 		'&ldquo;Childhood is a short season.&rdquo; <br /> &mdash;Helen Hayes',
+		'&ldquo;I have a Father&rsquo;s Day every day.&rdquo; <br /> &mdash;Dennis Banks',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;June 16 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;June 17 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let mayArray = [
