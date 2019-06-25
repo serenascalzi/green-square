@@ -23,8 +23,9 @@ $(document).ready(function() {
 		'&ldquo;There are two ways of spreading light: to be the candle or the mirror that reflects it.&rdquo; <br /> &mdash;Edith Wharton',
 		'&ldquo;Opportunities are usually disguised as hard work, so most people don&rsquo;t recognize them.&rdquo; <br /> &mdash;Ann Landers',
 		'&ldquo;To find out what one is fitted to do, and to secure an opportunity to do it, is the key to happiness.&rdquo; <br /> &mdash;John Dewey',
+		'&ldquo;A photograph is a secret about a secret. The more it tells you the less you know.&rdquo; <br /> &mdash;Diane Arbus',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;June 24 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;June 25 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let mayArray = [
