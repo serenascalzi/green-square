@@ -26,8 +26,9 @@ $(document).ready(function() {
 		'&ldquo;A photograph is a secret about a secret. The more it tells you the less you know.&rdquo; <br /> &mdash;Diane Arbus',
 		'&ldquo;Education is the movement from darkness to light.&rdquo; <br /> &mdash;Allan Bloom',
 		'&ldquo;Music is the divine way to tell beautiful, poetic things to the heart.&rdquo; <br /> &mdash;Pablo Casals',
+		'&ldquo;We aim above the mark to hit the mark.&rdquo; <br /> &mdash;Ralph Waldo Emerson',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;June 27 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;June 28 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let mayArray = [
