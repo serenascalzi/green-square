@@ -27,8 +27,9 @@ $(document).ready(function() {
 		'&ldquo;Education is the movement from darkness to light.&rdquo; <br /> &mdash;Allan Bloom',
 		'&ldquo;Music is the divine way to tell beautiful, poetic things to the heart.&rdquo; <br /> &mdash;Pablo Casals',
 		'&ldquo;We aim above the mark to hit the mark.&rdquo; <br /> &mdash;Ralph Waldo Emerson',
+		'&ldquo;The home is the chief school of human virtues.&rdquo; <br /> &mdash;William Ellery Channing',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;June 28 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;June 29 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let mayArray = [
