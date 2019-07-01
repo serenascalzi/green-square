@@ -1,4 +1,9 @@
 $(document).ready(function() {
+	let julyArray = [
+		//'&ldquo; &rdquo; <br /> &mdash; ',
+		'&ldquo;July 1 Quote&rdquo; <br /> &mdash;Attribution'
+	]
+
 	let juneArray = [
 		'&ldquo;Be not simply good &ndash; be good for something.&rdquo; <br /> &mdash;Henry David Thoreau',
 		'&ldquo;Zeal is a volcano, the peak of which the grass of indecisiveness does not grow.&rdquo; <br /> &mdash;Khalil Gibran',
@@ -29,8 +34,7 @@ $(document).ready(function() {
 		'&ldquo;We aim above the mark to hit the mark.&rdquo; <br /> &mdash;Ralph Waldo Emerson',
 		'&ldquo;The home is the chief school of human virtues.&rdquo; <br /> &mdash;William Ellery Channing',
 		'&ldquo;Progress was all right. Only it went on too long.&rdquo; <br /> &mdash;James Thurber',
-		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;June 30 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;The real problem is not whether machines think but whether men do.&rdquo; <br /> &mdash;B. F. Skinner'
 	]
 
 	let mayArray = [
