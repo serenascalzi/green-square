@@ -8,8 +8,9 @@ $(document).ready(function() {
 		'&ldquo;Laws are like sausages, it is better not to see them being made.&rdquo; <br /> &mdash;Otto von Bismarck',
 		'&ldquo;Travel becomes a strategy for accumulating photographs.&rdquo; <br /> &mdash;Susan Sontag',
 		'&ldquo;Sports do not build character. They reveal it.&rdquo; <br /> &mdash;Heywood Broun',
+		'&ldquo;People only see what they are prepared to see.&rdquo; <br /> &mdash;Ralph Waldo Emerson',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;July 9 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;July 10 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let juneArray = [
