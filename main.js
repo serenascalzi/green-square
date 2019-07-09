@@ -7,8 +7,9 @@ $(document).ready(function() {
 		'&ldquo;Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.&rdquo; <br /> &mdash;Lao Tzu',
 		'&ldquo;Laws are like sausages, it is better not to see them being made.&rdquo; <br /> &mdash;Otto von Bismarck',
 		'&ldquo;Travel becomes a strategy for accumulating photographs.&rdquo; <br /> &mdash;Susan Sontag',
+		'&ldquo;Sports do not build character. They reveal it.&rdquo; <br /> &mdash;Heywood Broun',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;July 8 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;July 9 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let juneArray = [
