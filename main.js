@@ -6,8 +6,9 @@ $(document).ready(function() {
 		'&ldquo;Independence is happiness.&rdquo; <br /> &mdash;Susan B. Anthony',
 		'&ldquo;Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.&rdquo; <br /> &mdash;Lao Tzu',
 		'&ldquo;Laws are like sausages, it is better not to see them being made.&rdquo; <br /> &mdash;Otto von Bismarck',
+		'&ldquo;Travel becomes a strategy for accumulating photographs.&rdquo; <br /> &mdash;Susan Sontag',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;July 7 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;July 8 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let juneArray = [
