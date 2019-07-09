@@ -2,8 +2,9 @@ $(document).ready(function() {
 	let julyArray = [
 		'&ldquo;The best way to cheer yourself up is to try to cheer somebody else up.&rdquo; <br /> &mdash;Mark Twain',
 		'&ldquo;It has been my experience that folks who have no vices have very few virtues.&rdquo; <br /> &mdash;Abraham Lincoln',
+		'&ldquo;Give me liberty or give me death.&rdquo; <br /> &mdash;Patrick Henry',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;July 3 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;July 4 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let juneArray = [
