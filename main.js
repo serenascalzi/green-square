@@ -4,8 +4,9 @@ $(document).ready(function() {
 		'&ldquo;It has been my experience that folks who have no vices have very few virtues.&rdquo; <br /> &mdash;Abraham Lincoln',
 		'&ldquo;Give me liberty or give me death.&rdquo; <br /> &mdash;Patrick Henry',
 		'&ldquo;Independence is happiness.&rdquo; <br /> &mdash;Susan B. Anthony',
+		'&ldquo;Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.&rdquo; <br /> &mdash;Lao Tzu',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;July 5 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;July 6 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let juneArray = [
