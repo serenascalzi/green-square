@@ -10,8 +10,9 @@ $(document).ready(function() {
 		'&ldquo;Sports do not build character. They reveal it.&rdquo; <br /> &mdash;Heywood Broun',
 		'&ldquo;People only see what they are prepared to see.&rdquo; <br /> &mdash;Ralph Waldo Emerson',
 		'&ldquo;He is happiest, be he king or peasant, who finds peace in his home.&rdquo; <br /> &mdash;Johann Wolfgang von Goethe',
+		'&ldquo;You are remembered for the rules you break.&rdquo; <br /> &mdash;Douglas MacArthur',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;July 11 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;July 12 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let juneArray = [
