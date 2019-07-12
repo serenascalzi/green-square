@@ -9,8 +9,9 @@ $(document).ready(function() {
 		'&ldquo;Travel becomes a strategy for accumulating photographs.&rdquo; <br /> &mdash;Susan Sontag',
 		'&ldquo;Sports do not build character. They reveal it.&rdquo; <br /> &mdash;Heywood Broun',
 		'&ldquo;People only see what they are prepared to see.&rdquo; <br /> &mdash;Ralph Waldo Emerson',
+		'&ldquo;He is happiest, be he king or peasant, who finds peace in his home.&rdquo; <br /> &mdash;Johann Wolfgang von Goethe',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;July 10 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;July 11 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let juneArray = [
