@@ -12,8 +12,9 @@ $(document).ready(function() {
 		'&ldquo;He is happiest, be he king or peasant, who finds peace in his home.&rdquo; <br /> &mdash;Johann Wolfgang von Goethe',
 		'&ldquo;You are remembered for the rules you break.&rdquo; <br /> &mdash;Douglas MacArthur',
 		'&ldquo;The traveler sees what he sees, the tourist sees what he has come to see.&rdquo; <br /> &mdash;Gilbert K. Chesterton',
+		'&ldquo;We first make our habits, and then our habits make us.&rdquo; <br /> &mdash;John Dryden',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;July 13 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;July 14 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let juneArray = [
