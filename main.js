@@ -21,8 +21,9 @@ $(document).ready(function() {
 		'&ldquo;Better keep yourself clean and bright; you are the window through which you must see the world.&rdquo; <br /> &mdash;George Bernard Shaw',
 		'&ldquo;Real knowledge is to know the extent of one&rsquo;s ignorance.&rdquo; <br /> &mdash;Confucius',
 		'&ldquo;Less is only more where more is no good.&rdquo; <br /> &mdash;Frank Lloyd Wright',
+		'&ldquo;Maybe this world is another planet&rsquo;s hell.&rdquo; <br /> &mdash;Aldous Huxley',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;July 22 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;July 23 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let juneArray = [
