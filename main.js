@@ -17,8 +17,9 @@ $(document).ready(function() {
 		'&ldquo;I have no money, no resources, no hopes. I am the happiest man alive.&rdquo; <br /> &mdash;Henry Miller',
 		'&ldquo;When you arrive at a fork in the road, take it.&rdquo; <br /> &mdash;Yogi Berra',
 		'&ldquo;Life consists not in holding good cards but in playing those you hold well.&rdquo; <br /> &mdash;Josh Billings',
+		'&ldquo;Nothing great in the world has ever been accomplished without passion.&rdquo; <br /> &mdash;Georg Wilhelm Friedrich Hegel',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;July 18 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;July 19 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let juneArray = [
