@@ -15,8 +15,9 @@ $(document).ready(function() {
 		'&ldquo;We first make our habits, and then our habits make us.&rdquo; <br /> &mdash;John Dryden',
 		'&ldquo;History is a vast early warning system.&rdquo; <br /> &mdash;Norman Cousins',
 		'&ldquo;I have no money, no resources, no hopes. I am the happiest man alive.&rdquo; <br /> &mdash;Henry Miller',
+		'&ldquo;When you arrive at a fork in the road, take it.&rdquo; <br /> &mdash;Yogi Berra',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;July 16 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;July 17 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let juneArray = [
