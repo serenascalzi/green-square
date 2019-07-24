@@ -22,8 +22,9 @@ $(document).ready(function() {
 		'&ldquo;Real knowledge is to know the extent of one&rsquo;s ignorance.&rdquo; <br /> &mdash;Confucius',
 		'&ldquo;Less is only more where more is no good.&rdquo; <br /> &mdash;Frank Lloyd Wright',
 		'&ldquo;Maybe this world is another planet&rsquo;s hell.&rdquo; <br /> &mdash;Aldous Huxley',
+		'&ldquo;Consistency is the last refuge of the unimaginative.&rdquo; <br /> &mdash;Oscar Wilde',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;July 23 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;July 24 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let juneArray = [
