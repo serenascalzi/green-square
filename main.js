@@ -28,8 +28,9 @@ $(document).ready(function() {
 		'&ldquo;Diplomacy is the art of saying &lsquo;Nice doggie&rsquo; until you can find a rock.&rdquo; <br /> &mdash;Will Rogers',
 		'&ldquo;The unexamined life is not worth living.&rdquo; <br /> &mdash;Socrates',
 		'&ldquo;Freedom is never given; it is won.&rdquo; <br /> &mdash;A. Philip Randolph',
+		'&ldquo;Only two things are infinite, the universe and human stupidity, and I&rsquo;m not sure about the former.&rdquo; <br /> &mdash;Albert Einstein',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;July 29 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;July 30 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let juneArray = [
