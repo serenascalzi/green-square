@@ -1,4 +1,9 @@
 $(document).ready(function() {
+	let augustArray = [
+		//'&ldquo; &rdquo; <br /> &mdash; ',
+		'&ldquo;August 1 Quote&rdquo; <br /> &mdash;Attribution'
+	]
+
 	let julyArray = [
 		'&ldquo;The best way to cheer yourself up is to try to cheer somebody else up.&rdquo; <br /> &mdash;Mark Twain',
 		'&ldquo;It has been my experience that folks who have no vices have very few virtues.&rdquo; <br /> &mdash;Abraham Lincoln',
@@ -30,8 +35,7 @@ $(document).ready(function() {
 		'&ldquo;Freedom is never given; it is won.&rdquo; <br /> &mdash;A. Philip Randolph',
 		'&ldquo;Only two things are infinite, the universe and human stupidity, and I&rsquo;m not sure about the former.&rdquo; <br /> &mdash;Albert Einstein',
 		'&ldquo;All animals are equal, but some animals are more equal than others.&rdquo; <br /> &mdash;George Orwell',
-		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;July 31 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;Forgiveness is the key to action and freedom.&rdquo; <br /> &mdash;Hannah Arendt'
 	]
 
 	let juneArray = [
