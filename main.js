@@ -203,7 +203,7 @@ $(document).ready(function() {
 		dayOfWeek = 'Saturday'
 	}
 
-	let month = date.getMonth()
+	let month = date.getMonth() - 1
 	let monthOfYear = ''
 	let monthArray = []
 	if (month === 0) {
