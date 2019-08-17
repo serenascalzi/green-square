@@ -1,4 +1,33 @@
 $(document).ready(function() {
+	let julyArray = [
+		'&ldquo;The best way to cheer yourself up is to try to cheer somebody else up.&rdquo; <br /> &mdash;Mark Twain',
+		'&ldquo;It has been my experience that folks who have no vices have very few virtues.&rdquo; <br /> &mdash;Abraham Lincoln',
+		'&ldquo;Give me liberty or give me death.&rdquo; <br /> &mdash;Patrick Henry',
+		'&ldquo;Independence is happiness.&rdquo; <br /> &mdash;Susan B. Anthony',
+		'&ldquo;Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.&rdquo; <br /> &mdash;Lao Tzu',
+		'&ldquo;Laws are like sausages, it is better not to see them being made.&rdquo; <br /> &mdash;Otto von Bismarck',
+		'&ldquo;Travel becomes a strategy for accumulating photographs.&rdquo; <br /> &mdash;Susan Sontag',
+		'&ldquo;Sports do not build character. They reveal it.&rdquo; <br /> &mdash;Heywood Broun',
+		'&ldquo;People only see what they are prepared to see.&rdquo; <br /> &mdash;Ralph Waldo Emerson',
+		'&ldquo;He is happiest, be he king or peasant, who finds peace in his home.&rdquo; <br /> &mdash;Johann Wolfgang von Goethe',
+		'&ldquo;You are remembered for the rules you break.&rdquo; <br /> &mdash;Douglas MacArthur',
+		'&ldquo;The traveler sees what he sees, the tourist sees what he has come to see.&rdquo; <br /> &mdash;Gilbert K. Chesterton',
+		'&ldquo;We first make our habits, and then our habits make us.&rdquo; <br /> &mdash;John Dryden',
+		'&ldquo;History is a vast early warning system.&rdquo; <br /> &mdash;Norman Cousins',
+		'&ldquo;I have no money, no resources, no hopes. I am the happiest man alive.&rdquo; <br /> &mdash;Henry Miller',
+		'&ldquo;When you arrive at a fork in the road, take it.&rdquo; <br /> &mdash;Yogi Berra',
+		'&ldquo;Life consists not in holding good cards but in playing those you hold well.&rdquo; <br /> &mdash;Josh Billings',
+		'&ldquo;Nothing great in the world has ever been accomplished without passion.&rdquo; <br /> &mdash;Georg Wilhelm Friedrich Hegel',
+		'&ldquo;Better keep yourself clean and bright; you are the window through which you must see the world.&rdquo; <br /> &mdash;George Bernard Shaw',
+		'&ldquo;Real knowledge is to know the extent of one&rsquo;s ignorance.&rdquo; <br /> &mdash;Confucius',
+		'&ldquo;Less is only more where more is no good.&rdquo; <br /> &mdash;Frank Lloyd Wright',
+		'&ldquo;Maybe this world is another planet&rsquo;s hell.&rdquo; <br /> &mdash;Aldous Huxley',
+		'&ldquo;Consistency is the last refuge of the unimaginative.&rdquo; <br /> &mdash;Oscar Wilde',
+		'&ldquo;We live in a rainbow of chaos.&rdquo; <br /> &mdash;Paul Cezanne',
+		//'&ldquo; &rdquo; <br /> &mdash; ',
+		'&ldquo;July 25 Quote&rdquo; <br /> &mdash;Attribution'
+	]
+
 	let juneArray = [
 		'&ldquo;Be not simply good &ndash; be good for something.&rdquo; <br /> &mdash;Henry David Thoreau',
 		'&ldquo;Zeal is a volcano, the peak of which the grass of indecisiveness does not grow.&rdquo; <br /> &mdash;Khalil Gibran',
@@ -12,8 +41,24 @@ $(document).ready(function() {
 		'&ldquo;No amount of experimentation can ever prove me right; a single experiment can prove me wrong.&rdquo; <br /> &mdash;Albert Einstein',
 		'&ldquo;You cannot shake hands with a clenched fist.&rdquo; <br /> &mdash;Indira Gandhi',
 		'&ldquo;Parents were invented to make children happy by giving them something to ignore.&rdquo; <br /> &mdash;Ogden Nash',
-		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;June 13 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;I have never in my life learned anything from any man who agreed with me.&rdquo; <br /> &mdash;Dudley Field Malone',
+		'&ldquo;Formula for success: rise early, work hard, strike oil.&rdquo; <br /> &mdash;J. Paul Getty',
+		'&ldquo;Childhood is a short season.&rdquo; <br /> &mdash;Helen Hayes',
+		'&ldquo;I have a Father&rsquo;s Day every day.&rdquo; <br /> &mdash;Dennis Banks',
+		'&ldquo;It doesn&rsquo;t matter who my father was; it matters who I remember he was.&rdquo; <br /> &mdash;Anne Sexton',
+		'&ldquo;We cannot live only for ourselves. A thousand fibers connect us with our fellow men.&rdquo; <br /> &mdash;Herman Melville',
+		'&ldquo;Many a trip continues long after movement in time and space have ceased.&rdquo; <br /> &mdash;John Steinbeck',
+		'&ldquo;He who knows that enough is enough will always have enough.&rdquo; <br /> &mdash;Lao Tzu',
+		'&ldquo;There are two ways of spreading light: to be the candle or the mirror that reflects it.&rdquo; <br /> &mdash;Edith Wharton',
+		'&ldquo;Opportunities are usually disguised as hard work, so most people don&rsquo;t recognize them.&rdquo; <br /> &mdash;Ann Landers',
+		'&ldquo;To find out what one is fitted to do, and to secure an opportunity to do it, is the key to happiness.&rdquo; <br /> &mdash;John Dewey',
+		'&ldquo;A photograph is a secret about a secret. The more it tells you the less you know.&rdquo; <br /> &mdash;Diane Arbus',
+		'&ldquo;Education is the movement from darkness to light.&rdquo; <br /> &mdash;Allan Bloom',
+		'&ldquo;Music is the divine way to tell beautiful, poetic things to the heart.&rdquo; <br /> &mdash;Pablo Casals',
+		'&ldquo;We aim above the mark to hit the mark.&rdquo; <br /> &mdash;Ralph Waldo Emerson',
+		'&ldquo;The home is the chief school of human virtues.&rdquo; <br /> &mdash;William Ellery Channing',
+		'&ldquo;Progress was all right. Only it went on too long.&rdquo; <br /> &mdash;James Thurber',
+		'&ldquo;The real problem is not whether machines think but whether men do.&rdquo; <br /> &mdash;B. F. Skinner'
 	]
 
 	let mayArray = [
