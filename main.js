@@ -4,8 +4,9 @@ $(document).ready(function() {
 		'&ldquo;The aim of education is the knowledge, not of facts, but of values.&rdquo; <br /> &mdash;William S. Burroughs',
 		'&ldquo;If we open a quarrel between past and present, we shall find that we have lost the future.&rdquo; <br /> &mdash;Winston Churchill',
 		'&ldquo;A somebody was once a nobody who wanted to and did.&rdquo; <br /> &mdash;John Burroughs',
+		'&ldquo;When ambition ends, happiness begins.&rdquo; <br /> &mdash;Thomas Merton',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;August 5 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;August 6 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let julyArray = [
