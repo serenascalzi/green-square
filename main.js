@@ -27,8 +27,9 @@ $(document).ready(function() {
 		'&ldquo;Never go to a doctor whose office plants have died.&rdquo; <br /> &mdash;Erma Bombeck',
 		'&ldquo;Diplomacy is the art of saying &lsquo;Nice doggie&rsquo; until you can find a rock.&rdquo; <br /> &mdash;Will Rogers',
 		'&ldquo;The unexamined life is not worth living.&rdquo; <br /> &mdash;Socrates',
+		'&ldquo;Freedom is never given; it is won.&rdquo; <br /> &mdash;A. Philip Randolph',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;July 28 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;July 29 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let juneArray = [
