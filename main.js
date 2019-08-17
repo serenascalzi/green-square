@@ -13,8 +13,9 @@ $(document).ready(function() {
 		'&ldquo;Act as if what you do makes a difference. It does.&rdquo; <br /> &mdash;William James',
 		'&ldquo;Sadness flies away on the wings of time.&rdquo; <br /> &mdash;Jean de La Fontaine',
 		'&ldquo;If you want others to be happy, practice compassion. If you want to be happy, practice compassion.&rdquo; <br /> &mdash;Dalai Lama',
+		'&ldquo;Happiness is a direction, not a place.&rdquo; <br /> &mdash;Sydney J. Harris',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;August 14 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;August 15 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let julyArray = [
