@@ -29,8 +29,9 @@ $(document).ready(function() {
 		'&ldquo;The unexamined life is not worth living.&rdquo; <br /> &mdash;Socrates',
 		'&ldquo;Freedom is never given; it is won.&rdquo; <br /> &mdash;A. Philip Randolph',
 		'&ldquo;Only two things are infinite, the universe and human stupidity, and I&rsquo;m not sure about the former.&rdquo; <br /> &mdash;Albert Einstein',
+		'&ldquo;All animals are equal, but some animals are more equal than others.&rdquo; <br /> &mdash;George Orwell',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;July 30 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;July 31 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let juneArray = [
