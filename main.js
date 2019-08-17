@@ -11,8 +11,9 @@ $(document).ready(function() {
 		'&ldquo;If we have no peace, it is because we have forgotten that we belong to each other.&rdquo; <br /> &mdash;Mother Teresa',
 		'&ldquo;Unless someone like you cares a whole awful lot, nothing is going to get better. It&rsquo;s not.&rdquo; <br /> &mdash;Dr. Seuss',
 		'&ldquo;Act as if what you do makes a difference. It does.&rdquo; <br /> &mdash;William James',
+		'&ldquo;Sadness flies away on the wings of time.&rdquo; <br /> &mdash;Jean de La Fontaine',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;August 12 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;August 13 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let julyArray = [
