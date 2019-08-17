@@ -9,8 +9,9 @@ $(document).ready(function() {
 		'&ldquo;We boil at different degrees.&rdquo; <br /> &mdash;Clint Eastwood',
 		'&ldquo;When one must, one can.&rdquo; <br /> &mdash;Charlotte Whitton',
 		'&ldquo;If we have no peace, it is because we have forgotten that we belong to each other.&rdquo; <br /> &mdash;Mother Teresa',
+		'&ldquo;Unless someone like you cares a whole awful lot, nothing is going to get better. It&rsquo;s not.&rdquo; <br /> &mdash;Dr. Seuss',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;August 10 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;August 11 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let julyArray = [
