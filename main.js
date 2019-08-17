@@ -15,8 +15,9 @@ $(document).ready(function() {
 		'&ldquo;If you want others to be happy, practice compassion. If you want to be happy, practice compassion.&rdquo; <br /> &mdash;Dalai Lama',
 		'&ldquo;Happiness is a direction, not a place.&rdquo; <br /> &mdash;Sydney J. Harris',
 		'&ldquo;Happiness is not a goal; it is a by-product.&rdquo; <br /> &mdash;Eleanor Roosevelt',
+		'&ldquo;The question isn&rsquo;t who is going to let me; it&rsquo;s who is going to stop me.&rdquo; <br /> &mdash;Ayn Rand',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;August 16 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;August 17 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let julyArray = [
