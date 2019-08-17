@@ -14,8 +14,9 @@ $(document).ready(function() {
 		'&ldquo;Sadness flies away on the wings of time.&rdquo; <br /> &mdash;Jean de La Fontaine',
 		'&ldquo;If you want others to be happy, practice compassion. If you want to be happy, practice compassion.&rdquo; <br /> &mdash;Dalai Lama',
 		'&ldquo;Happiness is a direction, not a place.&rdquo; <br /> &mdash;Sydney J. Harris',
+		'&ldquo;Happiness is not a goal; it is a by-product.&rdquo; <br /> &mdash;Eleanor Roosevelt',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;August 15 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;August 16 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let julyArray = [
