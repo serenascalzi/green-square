@@ -25,8 +25,9 @@ $(document).ready(function() {
 		'&ldquo;Consistency is the last refuge of the unimaginative.&rdquo; <br /> &mdash;Oscar Wilde',
 		'&ldquo;We live in a rainbow of chaos.&rdquo; <br /> &mdash;Paul Cezanne',
 		'&ldquo;Never go to a doctor whose office plants have died.&rdquo; <br /> &mdash;Erma Bombeck',
+		'&ldquo;Diplomacy is the art of saying &lsquo;Nice doggie&rsquo; until you can find a rock.&rdquo; <br /> &mdash;Will Rogers',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;July 26 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;July 27 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let juneArray = [
