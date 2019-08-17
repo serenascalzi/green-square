@@ -8,8 +8,9 @@ $(document).ready(function() {
 		'&ldquo;The reward of suffering is experience.&rdquo; <br /> &mdash;Harry S. Truman',
 		'&ldquo;We boil at different degrees.&rdquo; <br /> &mdash;Clint Eastwood',
 		'&ldquo;When one must, one can.&rdquo; <br /> &mdash;Charlotte Whitton',
+		'&ldquo;If we have no peace, it is because we have forgotten that we belong to each other.&rdquo; <br /> &mdash;Mother Teresa',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;August 9 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;August 10 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let julyArray = [
