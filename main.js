@@ -1,8 +1,9 @@
 $(document).ready(function() {
 	let augustArray = [
 		'&ldquo;A single sunbeam is enough to drive away many shadows.&rdquo; <br /> &mdash;Francis of Assisi',
+		'&ldquo;The aim of education is the knowledge, not of facts, but of values.&rdquo; <br /> &mdash;William S. Burroughs',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;August 2 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;August 3 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let julyArray = [
