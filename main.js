@@ -6,8 +6,9 @@ $(document).ready(function() {
 		'&ldquo;A somebody was once a nobody who wanted to and did.&rdquo; <br /> &mdash;John Burroughs',
 		'&ldquo;When ambition ends, happiness begins.&rdquo; <br /> &mdash;Thomas Merton',
 		'&ldquo;The reward of suffering is experience.&rdquo; <br /> &mdash;Harry S. Truman',
+		'&ldquo;We boil at different degrees.&rdquo; <br /> &mdash;Clint Eastwood',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;August 7 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;August 8 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let julyArray = [
