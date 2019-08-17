@@ -5,8 +5,9 @@ $(document).ready(function() {
 		'&ldquo;If we open a quarrel between past and present, we shall find that we have lost the future.&rdquo; <br /> &mdash;Winston Churchill',
 		'&ldquo;A somebody was once a nobody who wanted to and did.&rdquo; <br /> &mdash;John Burroughs',
 		'&ldquo;When ambition ends, happiness begins.&rdquo; <br /> &mdash;Thomas Merton',
+		'&ldquo;The reward of suffering is experience.&rdquo; <br /> &mdash;Harry S. Truman',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;August 6 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;August 7 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let julyArray = [
