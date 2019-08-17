@@ -3,8 +3,9 @@ $(document).ready(function() {
 		'&ldquo;A single sunbeam is enough to drive away many shadows.&rdquo; <br /> &mdash;Francis of Assisi',
 		'&ldquo;The aim of education is the knowledge, not of facts, but of values.&rdquo; <br /> &mdash;William S. Burroughs',
 		'&ldquo;If we open a quarrel between past and present, we shall find that we have lost the future.&rdquo; <br /> &mdash;Winston Churchill',
+		'&ldquo;A somebody was once a nobody who wanted to and did.&rdquo; <br /> &mdash;John Burroughs',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;August 4 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;August 5 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let julyArray = [
