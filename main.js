@@ -24,8 +24,9 @@ $(document).ready(function() {
 		'&ldquo;Maybe this world is another planet&rsquo;s hell.&rdquo; <br /> &mdash;Aldous Huxley',
 		'&ldquo;Consistency is the last refuge of the unimaginative.&rdquo; <br /> &mdash;Oscar Wilde',
 		'&ldquo;We live in a rainbow of chaos.&rdquo; <br /> &mdash;Paul Cezanne',
+		'&ldquo;Never go to a doctor whose office plants have died.&rdquo; <br /> &mdash;Erma Bombeck',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;July 25 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;July 26 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let juneArray = [
@@ -248,7 +249,7 @@ $(document).ready(function() {
 		dayOfWeek = 'Saturday'
 	}
 
-	let month = date.getMonth() - 1
+	let month = date.getMonth()
 	let monthOfYear = ''
 	let monthArray = []
 	if (month === 0) {
