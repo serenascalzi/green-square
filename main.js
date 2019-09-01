@@ -27,8 +27,9 @@ $(document).ready(function() {
 		'&ldquo;I don&rsquo;t think of all the misery but of the beauty that still remains.&rdquo; <br /> &mdash;Anne Frank',
 		'&ldquo;If you aren&rsquo;t fired with enthusiasm, you will be fired with enthusiasm.&rdquo; <br /> &mdash;Vince Lombardi',
 		'&ldquo;I have the simplest tastes. I am always satisfied with the best.&rdquo; <br /> &mdash;Oscar Wilde',
+		'&ldquo;To see things in the seed, that is genius.&rdquo; <br /> &mdash;Lao Tzu',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;August 28 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;August 29 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let julyArray = [
