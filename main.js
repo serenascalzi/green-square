@@ -17,8 +17,9 @@ $(document).ready(function() {
 		'&ldquo;Happiness is not a goal; it is a by-product.&rdquo; <br /> &mdash;Eleanor Roosevelt',
 		'&ldquo;The question isn&rsquo;t who is going to let me; it&rsquo;s who is going to stop me.&rdquo; <br /> &mdash;Ayn Rand',
 		'&ldquo;It&rsquo;s the friends you can call up at 4 a.m. that matter.&rdquo; <br /> &mdash;Marlene Dietrich',
+		'&ldquo;The most I can do for my friend is simply be his friend.&rdquo; <br /> &mdash;Henry David Thoreau',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;August 18 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;August 19 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let julyArray = [
