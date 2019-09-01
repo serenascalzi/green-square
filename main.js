@@ -28,8 +28,9 @@ $(document).ready(function() {
 		'&ldquo;If you aren&rsquo;t fired with enthusiasm, you will be fired with enthusiasm.&rdquo; <br /> &mdash;Vince Lombardi',
 		'&ldquo;I have the simplest tastes. I am always satisfied with the best.&rdquo; <br /> &mdash;Oscar Wilde',
 		'&ldquo;To see things in the seed, that is genius.&rdquo; <br /> &mdash;Lao Tzu',
+		'&ldquo;He who loves 50 people has 50 woes; he who loves no one has no woes.&rdquo; <br /> &mdash;Buddha',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;August 29 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;August 30 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let julyArray = [
