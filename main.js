@@ -23,8 +23,9 @@ $(document).ready(function() {
 		'&ldquo;Never apologize for showing feeling. When you do so, you apologize for the truth.&rdquo; <br /> &mdash;Benjamin Disraeli',
 		'&ldquo;It is amazing how complete is the delusion that beauty is goodness.&rdquo; <br /> &mdash;Leo Tolstoy',
 		'&ldquo;People are not disturbed by things, but by the view they take of them.&rdquo; <br /> &mdash;Epictetus',
+		'&ldquo;I have never met a man so ignorant that I couldn&rsquo;t learn something from him.&rdquo; <br /> &mdash;Galileo Galilei',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;August 24 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;August 25 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let julyArray = [
