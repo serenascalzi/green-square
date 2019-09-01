@@ -19,8 +19,9 @@ $(document).ready(function() {
 		'&ldquo;It&rsquo;s the friends you can call up at 4 a.m. that matter.&rdquo; <br /> &mdash;Marlene Dietrich',
 		'&ldquo;The most I can do for my friend is simply be his friend.&rdquo; <br /> &mdash;Henry David Thoreau',
 		'&ldquo;I&rsquo;d rather have roses on my table than diamonds on my neck.&rdquo; <br /> &mdash;Emma Goldman',
+		'&ldquo;Nobody ever drowned in his own sweat.&rdquo; <br /> &mdash;Ann Landers',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;August 20 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;August 21 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let julyArray = [
@@ -318,7 +319,7 @@ $(document).ready(function() {
 		monthArray = decemberArray
 	}
 
-	let dayOfMonth = date.getDate() - 12
+	let dayOfMonth = date.getDate()
 
 	let year = date.getFullYear()
 
