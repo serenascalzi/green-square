@@ -21,8 +21,9 @@ $(document).ready(function() {
 		'&ldquo;I&rsquo;d rather have roses on my table than diamonds on my neck.&rdquo; <br /> &mdash;Emma Goldman',
 		'&ldquo;Nobody ever drowned in his own sweat.&rdquo; <br /> &mdash;Ann Landers',
 		'&ldquo;Never apologize for showing feeling. When you do so, you apologize for the truth.&rdquo; <br /> &mdash;Benjamin Disraeli',
+		'&ldquo;It is amazing how complete is the delusion that beauty is goodness.&rdquo; <br /> &mdash;Leo Tolstoy',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;August 22 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;August 23 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let julyArray = [
