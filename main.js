@@ -1,7 +1,8 @@
 $(document).ready(function() {
 	let septemberArray = [
+		'&ldquo;A person who won&rsquo;t read has no advantage over one who can&rsquo;t read.&rdquo; <br /> &mdash;Mark Twain',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;September 1 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;September 2 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let augustArray = [
