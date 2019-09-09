@@ -7,8 +7,9 @@ $(document).ready(function() {
 		'&ldquo;Though we travel the world over to find the beautiful, we must carry it with us or we find it not.&rdquo; <br /> &mdash;Ralph Waldo Emerson',
 		'&ldquo;It is not in the stars to hold our destiny but in ourselves.&rdquo; <br /> &mdash;William Shakespeare',
 		'&ldquo;I may not have gone where I intended to go, but I think I have ended up where I intended to be.&rdquo; <br /> &mdash;Douglas Adams',
+		'&ldquo;Beware the fury of a patient man.&rdquo; <br /> &mdash;John Dryden',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;September 8 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;September 9 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let augustArray = [
