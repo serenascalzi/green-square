@@ -2,8 +2,9 @@ $(document).ready(function() {
 	let septemberArray = [
 		'&ldquo;A person who won&rsquo;t read has no advantage over one who can&rsquo;t read.&rdquo; <br /> &mdash;Mark Twain',
 		'&ldquo;We cannot change anything until we accept it. Condemnation does not liberate, it oppresses.&rdquo; <br /> &mdash;Carl Jung',
+		'&ldquo;You are the bows from which your children as living arrows are sent forth.&rdquo; <br /> &mdash;Khalil Gibran',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;September 3 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;September 4 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let augustArray = [
