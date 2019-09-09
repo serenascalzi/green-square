@@ -6,8 +6,9 @@ $(document).ready(function() {
 		'&ldquo;Opportunity is missed by most people because it is dressed in overalls and looks like work.&rdquo; <br /> &mdash;Thomas A. Edison',
 		'&ldquo;Though we travel the world over to find the beautiful, we must carry it with us or we find it not.&rdquo; <br /> &mdash;Ralph Waldo Emerson',
 		'&ldquo;It is not in the stars to hold our destiny but in ourselves.&rdquo; <br /> &mdash;William Shakespeare',
+		'&ldquo;I may not have gone where I intended to go, but I think I have ended up where I intended to be.&rdquo; <br /> &mdash;Douglas Adams',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;September 7 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;September 8 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let augustArray = [
