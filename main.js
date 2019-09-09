@@ -5,8 +5,9 @@ $(document).ready(function() {
 		'&ldquo;You are the bows from which your children as living arrows are sent forth.&rdquo; <br /> &mdash;Khalil Gibran',
 		'&ldquo;Opportunity is missed by most people because it is dressed in overalls and looks like work.&rdquo; <br /> &mdash;Thomas A. Edison',
 		'&ldquo;Though we travel the world over to find the beautiful, we must carry it with us or we find it not.&rdquo; <br /> &mdash;Ralph Waldo Emerson',
+		'&ldquo;It is not in the stars to hold our destiny but in ourselves.&rdquo; <br /> &mdash;William Shakespeare',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;September 6 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;September 7 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let augustArray = [
