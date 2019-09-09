@@ -3,8 +3,9 @@ $(document).ready(function() {
 		'&ldquo;A person who won&rsquo;t read has no advantage over one who can&rsquo;t read.&rdquo; <br /> &mdash;Mark Twain',
 		'&ldquo;We cannot change anything until we accept it. Condemnation does not liberate, it oppresses.&rdquo; <br /> &mdash;Carl Jung',
 		'&ldquo;You are the bows from which your children as living arrows are sent forth.&rdquo; <br /> &mdash;Khalil Gibran',
+		'&ldquo;Opportunity is missed by most people because it is dressed in overalls and looks like work.&rdquo; <br /> &mdash;Thomas A. Edison',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;September 4 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;September 5 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let augustArray = [
