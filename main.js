@@ -16,8 +16,9 @@ $(document).ready(function() {
 		'&ldquo;The secret of business is to know something that nobody else knows.&rdquo; <br /> &mdash;Aristotle Onassis',
 		'&ldquo;Nobody made a greater mistake than he who did nothing because he could do only a little.&rdquo; <br /> &mdash;Edmund Burke',
 		'&ldquo;The best and most beautiful things in the world cannot be seen of even touched &ndash; they must be felt with the heart.&rdquo; <br /> &mdash;Helen Keller',
+		'&ldquo;Rather fail with honor than succeed by fraud.&rdquo; <br /> &mdash;Sophocles',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;September 17 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;September 18 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let augustArray = [
