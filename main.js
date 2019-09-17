@@ -11,8 +11,9 @@ $(document).ready(function() {
 		'&ldquo;Give me a lever long enough and a fulcrum on which to place it, and I shall move the world.&rdquo; <br /> &mdash;Archimedes',
 		'&ldquo;The past cannot be cured.&rdquo; <br /> &mdash;Elizabeth I',
 		'&ldquo;Live as brave men; and if fortune is adverse, front its blows with brave hearts.&rdquo; <br /> &mdash;Marcus Tullius Cicero',
+		'&ldquo;The object of the superior man is truth.&rdquo; <br /> &mdash;Confucius',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;September 12 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;September 13 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let augustArray = [
