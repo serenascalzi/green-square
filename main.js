@@ -10,8 +10,9 @@ $(document).ready(function() {
 		'&ldquo;Beware the fury of a patient man.&rdquo; <br /> &mdash;John Dryden',
 		'&ldquo;Give me a lever long enough and a fulcrum on which to place it, and I shall move the world.&rdquo; <br /> &mdash;Archimedes',
 		'&ldquo;The past cannot be cured.&rdquo; <br /> &mdash;Elizabeth I',
+		'&ldquo;Live as brave men; and if fortune is adverse, front its blows with brave hearts.&rdquo; <br /> &mdash;Marcus Tullius Cicero',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;September 11 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;September 12 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let augustArray = [
