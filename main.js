@@ -13,8 +13,9 @@ $(document).ready(function() {
 		'&ldquo;Live as brave men; and if fortune is adverse, front its blows with brave hearts.&rdquo; <br /> &mdash;Marcus Tullius Cicero',
 		'&ldquo;The object of the superior man is truth.&rdquo; <br /> &mdash;Confucius',
 		'&ldquo;If you can&rsquo;t convince them, confuse them.&rdquo; <br /> &mdash;Harry S. Truman',
+		'&ldquo;The secret of business is to know something that nobody else knows.&rdquo; <br /> &mdash;Aristotle Onassis',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;September 14 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;September 15 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let augustArray = [
