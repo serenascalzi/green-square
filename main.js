@@ -14,8 +14,9 @@ $(document).ready(function() {
 		'&ldquo;The object of the superior man is truth.&rdquo; <br /> &mdash;Confucius',
 		'&ldquo;If you can&rsquo;t convince them, confuse them.&rdquo; <br /> &mdash;Harry S. Truman',
 		'&ldquo;The secret of business is to know something that nobody else knows.&rdquo; <br /> &mdash;Aristotle Onassis',
+		'&ldquo;Nobody made a greater mistake than he who did nothing because he could do only a little.&rdquo; <br /> &mdash;Edmund Burke',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;September 15 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;September 16 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let augustArray = [
