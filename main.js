@@ -9,8 +9,9 @@ $(document).ready(function() {
 		'&ldquo;I may not have gone where I intended to go, but I think I have ended up where I intended to be.&rdquo; <br /> &mdash;Douglas Adams',
 		'&ldquo;Beware the fury of a patient man.&rdquo; <br /> &mdash;John Dryden',
 		'&ldquo;Give me a lever long enough and a fulcrum on which to place it, and I shall move the world.&rdquo; <br /> &mdash;Archimedes',
+		'&ldquo;The past cannot be cured.&rdquo; <br /> &mdash;Elizabeth I',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;September 10 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;September 11 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let augustArray = [
