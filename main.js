@@ -20,8 +20,9 @@ $(document).ready(function() {
 		'&ldquo;Everything that is made beautiful and fair and lovely is made for the eye of one who sees.&rdquo; <br /> &mdash;Rumi',
 		'&ldquo;You can find peace amidst the storms that threaten you.&rdquo; <br /> &mdash;Joseph B. Wirthlin',
 		'&ldquo;Let us always meet each other with smile, for the smile is the beginning of love.&rdquo; <br /> &mdash;Mother Teresa',
+		'&ldquo;Give me the luxuries of life and I will willingly do without the necessities.&rdquo; <br /> &mdash;Frank Lloyd Wright',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;September 21 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;September 22 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let augustArray = [
