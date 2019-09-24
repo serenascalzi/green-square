@@ -18,8 +18,9 @@ $(document).ready(function() {
 		'&ldquo;The best and most beautiful things in the world cannot be seen of even touched &ndash; they must be felt with the heart.&rdquo; <br /> &mdash;Helen Keller',
 		'&ldquo;Rather fail with honor than succeed by fraud.&rdquo; <br /> &mdash;Sophocles',
 		'&ldquo;Everything that is made beautiful and fair and lovely is made for the eye of one who sees.&rdquo; <br /> &mdash;Rumi',
+		'&ldquo;You can find peace amidst the storms that threaten you.&rdquo; <br /> &mdash;Joseph B. Wirthlin',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;September 19 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;September 20 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let augustArray = [
