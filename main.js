@@ -21,8 +21,9 @@ $(document).ready(function() {
 		'&ldquo;You can find peace amidst the storms that threaten you.&rdquo; <br /> &mdash;Joseph B. Wirthlin',
 		'&ldquo;Let us always meet each other with smile, for the smile is the beginning of love.&rdquo; <br /> &mdash;Mother Teresa',
 		'&ldquo;Give me the luxuries of life and I will willingly do without the necessities.&rdquo; <br /> &mdash;Frank Lloyd Wright',
+		'&ldquo;With the new day comes new strength and new thoughts.&rdquo; <br /> &mdash;Eleanor Roosevelt',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;September 22 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;September 23 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let augustArray = [
