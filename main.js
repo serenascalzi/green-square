@@ -24,8 +24,9 @@ $(document).ready(function() {
 		'&ldquo;With the new day comes new strength and new thoughts.&rdquo; <br /> &mdash;Eleanor Roosevelt',
 		'&ldquo;I often quote myself. It adds spice to my conversation.&rdquo; <br /> &mdash;George Bernard Shaw',
 		'&ldquo;The science of today is the technology of tomorrow.&rdquo; <br /> &mdash;Edward Teller',
+		'&ldquo;I believe things cannot make themselves impossible.&rdquo; <br /> &mdash;Stephen Hawking',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;September 25 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;September 26 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let augustArray = [
