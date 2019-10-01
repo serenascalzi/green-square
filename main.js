@@ -27,8 +27,9 @@ $(document).ready(function() {
 		'&ldquo;I believe things cannot make themselves impossible.&rdquo; <br /> &mdash;Stephen Hawking',
 		'&ldquo;The past always looks better than it was. It&rsquo;s only pleasant because it isn&rsquo;t here.&rdquo; <br /> &mdash;Finley Peter Dunne',
 		'&ldquo;A person&rsquo;s a person, no matter how small.&rdquo; <br /> &mdash;Dr. Seuss',
+		'&ldquo;There are people who have money and people who are rich.&rdquo; <br /> &mdash;Coco Chanel',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;September 28 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;September 29 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let augustArray = [
