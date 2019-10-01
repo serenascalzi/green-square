@@ -28,8 +28,9 @@ $(document).ready(function() {
 		'&ldquo;The past always looks better than it was. It&rsquo;s only pleasant because it isn&rsquo;t here.&rdquo; <br /> &mdash;Finley Peter Dunne',
 		'&ldquo;A person&rsquo;s a person, no matter how small.&rdquo; <br /> &mdash;Dr. Seuss',
 		'&ldquo;There are people who have money and people who are rich.&rdquo; <br /> &mdash;Coco Chanel',
+		'&ldquo;Success seems to be largely a matter of hanging on after others have let go.&rdquo; <br /> &mdash;William Feather',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;September 29 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;September 30 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let augustArray = [
