@@ -1,4 +1,9 @@
 $(document).ready(function() {
+	let octoberArray = [
+		// '&ldquo; &rdquo; <br /> &mdash; ',
+		'&ldquo;October 1 Quote&rdquo; <br /> &mdash;Attribution'
+	]
+
 	let septemberArray = [
 		'&ldquo;A person who won&rsquo;t read has no advantage over one who can&rsquo;t read.&rdquo; <br /> &mdash;Mark Twain',
 		'&ldquo;We cannot change anything until we accept it. Condemnation does not liberate, it oppresses.&rdquo; <br /> &mdash;Carl Jung',
@@ -29,8 +34,7 @@ $(document).ready(function() {
 		'&ldquo;A person&rsquo;s a person, no matter how small.&rdquo; <br /> &mdash;Dr. Seuss',
 		'&ldquo;There are people who have money and people who are rich.&rdquo; <br /> &mdash;Coco Chanel',
 		'&ldquo;Success seems to be largely a matter of hanging on after others have let go.&rdquo; <br /> &mdash;William Feather',
-		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;September 30 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;A champion is someone who gets up when he can&rsquo;t.&rdquo; <br /> &mdash;Jack Dempsey'
 	]
 
 	let augustArray = [
