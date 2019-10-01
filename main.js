@@ -25,8 +25,9 @@ $(document).ready(function() {
 		'&ldquo;I often quote myself. It adds spice to my conversation.&rdquo; <br /> &mdash;George Bernard Shaw',
 		'&ldquo;The science of today is the technology of tomorrow.&rdquo; <br /> &mdash;Edward Teller',
 		'&ldquo;I believe things cannot make themselves impossible.&rdquo; <br /> &mdash;Stephen Hawking',
+		'&ldquo;The past always looks better than it was. It&rsquo;s only pleasant because it isn&rsquo;t here.&rdquo; <br /> &mdash;Finley Peter Dunne',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;September 26 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;September 27 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let augustArray = [
