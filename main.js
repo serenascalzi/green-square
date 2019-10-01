@@ -23,8 +23,9 @@ $(document).ready(function() {
 		'&ldquo;Give me the luxuries of life and I will willingly do without the necessities.&rdquo; <br /> &mdash;Frank Lloyd Wright',
 		'&ldquo;With the new day comes new strength and new thoughts.&rdquo; <br /> &mdash;Eleanor Roosevelt',
 		'&ldquo;I often quote myself. It adds spice to my conversation.&rdquo; <br /> &mdash;George Bernard Shaw',
+		'&ldquo;The science of today is the technology of tomorrow.&rdquo; <br /> &mdash;Edward Teller',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;September 24 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;September 25 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let augustArray = [
