@@ -5,8 +5,9 @@ $(document).ready(function() {
 		'&ldquo;Happiness is not something ready made. It comes from your own actions.&rdquo; <br /> &mdash;Dalai Lama',
 		'&ldquo;Hope is patience with the lamp lit.&rdquo; <br /> &mdash;Tertullian',
 		'&ldquo;If opportunity doesn&rsquo;t knock, build a door.&rdquo; <br /> &mdash;Milton Berle',
+		'&ldquo;Every story I create, creates me. I write to create myself.&rdquo; <br /> &mdash;Octavia E. Butler',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;October 6 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;October 7 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let septemberArray = [
