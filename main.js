@@ -1,8 +1,9 @@
 $(document).ready(function() {
 	let octoberArray = [
 		'&ldquo;We are all here on earth to help others; what on earth the others are here for I don&rsquo;t know.&rdquo; <br /> &mdash;W. H. Auden',
+		'&ldquo;Just because something doesn&rsquo;t do what you planned it to do doesn&rsquo;t mean it&rsquo;s useless.&rdquo; <br /> &mdash;Thomas A. Edison',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;October 2 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;October 3 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let septemberArray = [
