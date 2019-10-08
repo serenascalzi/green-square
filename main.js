@@ -4,8 +4,9 @@ $(document).ready(function() {
 		'&ldquo;Just because something doesn&rsquo;t do what you planned it to do doesn&rsquo;t mean it&rsquo;s useless.&rdquo; <br /> &mdash;Thomas A. Edison',
 		'&ldquo;Happiness is not something ready made. It comes from your own actions.&rdquo; <br /> &mdash;Dalai Lama',
 		'&ldquo;Hope is patience with the lamp lit.&rdquo; <br /> &mdash;Tertullian',
+		'&ldquo;If opportunity doesn&rsquo;t knock, build a door.&rdquo; <br /> &mdash;Milton Berle',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;October 5 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;October 6 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let septemberArray = [
