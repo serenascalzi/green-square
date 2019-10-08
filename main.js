@@ -6,8 +6,9 @@ $(document).ready(function() {
 		'&ldquo;Hope is patience with the lamp lit.&rdquo; <br /> &mdash;Tertullian',
 		'&ldquo;If opportunity doesn&rsquo;t knock, build a door.&rdquo; <br /> &mdash;Milton Berle',
 		'&ldquo;Every story I create, creates me. I write to create myself.&rdquo; <br /> &mdash;Octavia E. Butler',
+		'&ldquo;The soul that is within me no man can degrade.&rdquo; <br /> &mdash;Frederick Douglass',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;October 7 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;October 8 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let septemberArray = [
