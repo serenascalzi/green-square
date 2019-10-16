@@ -13,8 +13,9 @@ $(document).ready(function() {
 		'&ldquo;The smallest deed is better than the greatest intention.&rdquo; <br /> &mdash;John Burroughs',
 		'&ldquo;Kind words do not cost much. Yet they accomplish much.&rdquo; <br /> &mdash;Blaise Pascal',
 		'&ldquo;Greatness is a road leading towards the unknown.&rdquo; <br /> &mdash;Charles de Gaulle',
+		'&ldquo;But he that dares not grasp the thorn should never crave the rose.&rdquo; <br /> &mdash;Anne Bronte',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;October 14 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;October 15 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let septemberArray = [
