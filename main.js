@@ -8,8 +8,9 @@ $(document).ready(function() {
 		'&ldquo;Every story I create, creates me. I write to create myself.&rdquo; <br /> &mdash;Octavia E. Butler',
 		'&ldquo;The soul that is within me no man can degrade.&rdquo; <br /> &mdash;Frederick Douglass',
 		'&ldquo;Love is the only force capable of transforming an enemy into a friend.&rdquo; <br /> &mdash;Martin Luther King, Jr.',
+		'&ldquo;Following the light of the sun, we left the Old World.&rdquo; <br /> &mdash;Christopher Columbus',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;October 9 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;October 10 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let septemberArray = [
