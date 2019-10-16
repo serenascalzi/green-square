@@ -14,8 +14,9 @@ $(document).ready(function() {
 		'&ldquo;Kind words do not cost much. Yet they accomplish much.&rdquo; <br /> &mdash;Blaise Pascal',
 		'&ldquo;Greatness is a road leading towards the unknown.&rdquo; <br /> &mdash;Charles de Gaulle',
 		'&ldquo;But he that dares not grasp the thorn should never crave the rose.&rdquo; <br /> &mdash;Anne Bronte',
+		'&ldquo;I know not age, nor weariness nor defeat.&rdquo; <br /> &mdash;Rose Kennedy',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;October 15 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;October 16 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let septemberArray = [
