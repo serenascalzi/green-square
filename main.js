@@ -12,8 +12,9 @@ $(document).ready(function() {
 		'&ldquo;The world is round so that friendship may encircle it.&rdquo; <br /> &mdash;Pierre Teilhard de Chardin',
 		'&ldquo;The smallest deed is better than the greatest intention.&rdquo; <br /> &mdash;John Burroughs',
 		'&ldquo;Kind words do not cost much. Yet they accomplish much.&rdquo; <br /> &mdash;Blaise Pascal',
+		'&ldquo;Greatness is a road leading towards the unknown.&rdquo; <br /> &mdash;Charles de Gaulle',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;October 13 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;October 14 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let septemberArray = [
