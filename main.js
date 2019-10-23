@@ -19,8 +19,9 @@ $(document).ready(function() {
 		'&ldquo;Where there is no vision, there is no hope.&rdquo; <br /> &mdash;George Washington Carver',
 		'&ldquo;I can, therefore I am.&rdquo; <br /> &mdash;Simone Weil',
 		'&ldquo;Time is money.&rdquo; <br /> &mdash;Benjamin Franklin',
+		'&ldquo;Writing, to me, is simply thinking through my fingers.&rdquo; <br /> &mdash;Isaac Asimov',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;October 20 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;October 21 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let septemberArray = [
