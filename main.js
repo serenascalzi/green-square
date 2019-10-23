@@ -17,8 +17,9 @@ $(document).ready(function() {
 		'&ldquo;I know not age, nor weariness nor defeat.&rdquo; <br /> &mdash;Rose Kennedy',
 		'&ldquo;Life is the art of drawing without an eraser.&rdquo; <br /> &mdash;John W. Gardner',
 		'&ldquo;Where there is no vision, there is no hope.&rdquo; <br /> &mdash;George Washington Carver',
+		'&ldquo;I can, therefore I am.&rdquo; <br /> &mdash;Simone Weil',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;October 18 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;October 19 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let septemberArray = [
