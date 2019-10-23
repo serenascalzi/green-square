@@ -20,8 +20,9 @@ $(document).ready(function() {
 		'&ldquo;I can, therefore I am.&rdquo; <br /> &mdash;Simone Weil',
 		'&ldquo;Time is money.&rdquo; <br /> &mdash;Benjamin Franklin',
 		'&ldquo;Writing, to me, is simply thinking through my fingers.&rdquo; <br /> &mdash;Isaac Asimov',
+		'&ldquo;The reward for work well done is the opportunity to do more.&rdquo; <br /> &mdash;Jonas Salk',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;October 21 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;October 22 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let septemberArray = [
