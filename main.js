@@ -26,8 +26,9 @@ $(document).ready(function() {
 		'&ldquo;Out of difficulties grow miracles.&rdquo; <br /> &mdash;Jean de la Bruyere',
 		'&ldquo;We loved with a love that was more than love.&rdquo; <br /> &mdash;Edgar Allan Poe',
 		'&ldquo;Where is all the knowledge we lost with information?&rdquo; <br /> &mdash;T. S. Eliot',
+		'&ldquo;A promise must never be broken.&rdquo; <br /> &mdash;Alexander Hamilton',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;October 27 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;October 28 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let septemberArray = [
