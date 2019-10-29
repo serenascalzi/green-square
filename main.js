@@ -23,8 +23,9 @@ $(document).ready(function() {
 		'&ldquo;The reward for work well done is the opportunity to do more.&rdquo; <br /> &mdash;Jonas Salk',
 		'&ldquo;There is nothing permanent except change.&rdquo; <br /> &mdash;Heraclitus',
 		'&ldquo;Quality is everyone&rsquo;s responsibility.&rdquo; <br /> &mdash;W. Edwards Deming',
+		'&ldquo;Out of difficulties grow miracles.&rdquo; <br /> &mdash;Jean de la Bruyere',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;October 24 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;October 25 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let septemberArray = [
