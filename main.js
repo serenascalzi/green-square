@@ -22,8 +22,9 @@ $(document).ready(function() {
 		'&ldquo;Writing, to me, is simply thinking through my fingers.&rdquo; <br /> &mdash;Isaac Asimov',
 		'&ldquo;The reward for work well done is the opportunity to do more.&rdquo; <br /> &mdash;Jonas Salk',
 		'&ldquo;There is nothing permanent except change.&rdquo; <br /> &mdash;Heraclitus',
+		'&ldquo;Quality is everyone&rsquo;s responsibility.&rdquo; <br /> &mdash;W. Edwards Deming',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;October 23 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;October 24 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let septemberArray = [
