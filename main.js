@@ -24,8 +24,9 @@ $(document).ready(function() {
 		'&ldquo;There is nothing permanent except change.&rdquo; <br /> &mdash;Heraclitus',
 		'&ldquo;Quality is everyone&rsquo;s responsibility.&rdquo; <br /> &mdash;W. Edwards Deming',
 		'&ldquo;Out of difficulties grow miracles.&rdquo; <br /> &mdash;Jean de la Bruyere',
+		'&ldquo;We loved with a love that was more than love.&rdquo; <br /> &mdash;Edgar Allan Poe',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;October 25 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;October 26 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let septemberArray = [
