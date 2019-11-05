@@ -29,8 +29,9 @@ $(document).ready(function() {
 		'&ldquo;A promise must never be broken.&rdquo; <br /> &mdash;Alexander Hamilton',
 		'&ldquo;Research is creating new knowledge.&rdquo; <br /> &mdash;Neil Armstrong',
 		'&ldquo;Despite everything, I believe that people are really good at heart.&rdquo; <br /> &mdash;Anne Frank',
+		'&ldquo;The dog that trots about finds a bone.&rdquo; <br /> &mdash;Golda Meir',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;October 30 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;October 31 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let septemberArray = [
