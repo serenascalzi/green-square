@@ -1,4 +1,9 @@
 $(document).ready(function() {
+	let novemberArray = [
+		//'&ldquo; &rdquo; <br /> &mdash; ',
+		'&ldquo;November 1 Quote&rdquo; <br /> &mdash;Attribution'
+	]
+
 	let octoberArray = [
 		'&ldquo;We are all here on earth to help others; what on earth the others are here for I don&rsquo;t know.&rdquo; <br /> &mdash;W. H. Auden',
 		'&ldquo;Just because something doesn&rsquo;t do what you planned it to do doesn&rsquo;t mean it&rsquo;s useless.&rdquo; <br /> &mdash;Thomas A. Edison',
@@ -30,8 +35,7 @@ $(document).ready(function() {
 		'&ldquo;Research is creating new knowledge.&rdquo; <br /> &mdash;Neil Armstrong',
 		'&ldquo;Despite everything, I believe that people are really good at heart.&rdquo; <br /> &mdash;Anne Frank',
 		'&ldquo;The dog that trots about finds a bone.&rdquo; <br /> &mdash;Golda Meir',
-		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;October 31 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;We don&rsquo;t see things as they are, we see them as we are.&rdquo; <br /> &mdash;Anais Nin'
 	]
 
 	let septemberArray = [
