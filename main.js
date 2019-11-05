@@ -1,8 +1,9 @@
 $(document).ready(function() {
 	let novemberArray = [
 		'&ldquo;You don&rsquo;t take a photograph, you make it.&rdquo; <br /> &mdash;Ansel Adams',
+		'&ldquo;It&rsquo;s not what you pay a man, but what he costs you that counts.&rdquo; <br /> &mdash;Will Rogers',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;November 2 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;November 3 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let octoberArray = [
