@@ -3,8 +3,9 @@ $(document).ready(function() {
 		'&ldquo;You don&rsquo;t take a photograph, you make it.&rdquo; <br /> &mdash;Ansel Adams',
 		'&ldquo;It&rsquo;s not what you pay a man, but what he costs you that counts.&rdquo; <br /> &mdash;Will Rogers',
 		'&ldquo;It takes an endless amount of history to make even a little tradition.&rdquo; <br /> &mdash;Henry James',
+		'&ldquo;I want to put a ding in the universe.&rdquo; <br /> &mdash;Steve Jobs',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;November 4 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;November 5 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let octoberArray = [
