@@ -28,8 +28,9 @@ $(document).ready(function() {
 		'&ldquo;Where is all the knowledge we lost with information?&rdquo; <br /> &mdash;T. S. Eliot',
 		'&ldquo;A promise must never be broken.&rdquo; <br /> &mdash;Alexander Hamilton',
 		'&ldquo;Research is creating new knowledge.&rdquo; <br /> &mdash;Neil Armstrong',
+		'&ldquo;Despite everything, I believe that people are really good at heart.&rdquo; <br /> &mdash;Anne Frank',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;October 29 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;October 30 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let septemberArray = [
