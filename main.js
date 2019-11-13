@@ -9,8 +9,9 @@ $(document).ready(function() {
 		'&ldquo;Bad officials are the ones elected by good citizens who do not vote.&rdquo; <br /> &mdash;George Jean Nathan',
 		'&ldquo;It is not enough to have a good mind; the main thing is to use it well.&rdquo; <br /> &mdash;Rene Descartes',
 		'&ldquo;Trust yourself, you know more than you think you do.&rdquo; <br /> &mdash;Benjamin Spock',
+		'&ldquo;Reject your sense of injury and the injury itself disappears.&rdquo; <br /> &mdash;Marcus Aurelius',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;November 10 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;November 11 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let octoberArray = [
