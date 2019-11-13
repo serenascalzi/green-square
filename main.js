@@ -11,8 +11,9 @@ $(document).ready(function() {
 		'&ldquo;Trust yourself, you know more than you think you do.&rdquo; <br /> &mdash;Benjamin Spock',
 		'&ldquo;Reject your sense of injury and the injury itself disappears.&rdquo; <br /> &mdash;Marcus Aurelius',
 		'&ldquo;In war the heroes always outnumber the soldiers ten to one.&rdquo; <br /> &mdash;H. L. Mencken',
+		'&ldquo;The way to get things done is not to mind who gets the credit for doing them.&rdquo; <br /> &mdash;Benjamin Jowett',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;November 12 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;November 13 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let octoberArray = [
