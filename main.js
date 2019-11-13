@@ -8,8 +8,9 @@ $(document).ready(function() {
 		'&ldquo;A leader is one who knows the way, goes the way, and shows the way.&rdquo; <br /> &mdash;John C. Maxwell',
 		'&ldquo;Bad officials are the ones elected by good citizens who do not vote.&rdquo; <br /> &mdash;George Jean Nathan',
 		'&ldquo;It is not enough to have a good mind; the main thing is to use it well.&rdquo; <br /> &mdash;Rene Descartes',
+		'&ldquo;Trust yourself, you know more than you think you do.&rdquo; <br /> &mdash;Benjamin Spock',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;November 9 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;November 10 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let octoberArray = [
