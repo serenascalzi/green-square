@@ -6,8 +6,9 @@ $(document).ready(function() {
 		'&ldquo;I want to put a ding in the universe.&rdquo; <br /> &mdash;Steve Jobs',
 		'&ldquo;I don&rsquo;t want to be interesting. I want to be good.&rdquo; <br /> &mdash;Ludwig Mies van der Rohe',
 		'&ldquo;A leader is one who knows the way, goes the way, and shows the way.&rdquo; <br /> &mdash;John C. Maxwell',
+		'&ldquo;Bad officials are the ones elected by good citizens who do not vote.&rdquo; <br /> &mdash;George Jean Nathan',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;November 7 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;November 8 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let octoberArray = [
