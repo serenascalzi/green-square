@@ -10,8 +10,9 @@ $(document).ready(function() {
 		'&ldquo;It is not enough to have a good mind; the main thing is to use it well.&rdquo; <br /> &mdash;Rene Descartes',
 		'&ldquo;Trust yourself, you know more than you think you do.&rdquo; <br /> &mdash;Benjamin Spock',
 		'&ldquo;Reject your sense of injury and the injury itself disappears.&rdquo; <br /> &mdash;Marcus Aurelius',
+		'&ldquo;In war the heroes always outnumber the soldiers ten to one.&rdquo; <br /> &mdash;H. L. Mencken',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;November 11 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;November 12 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let octoberArray = [
