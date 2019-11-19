@@ -15,8 +15,9 @@ $(document).ready(function() {
 		'&ldquo;It is the mark of an educated mind to be able to entertain a thought without accepting it.&rdquo; <br /> &mdash;Aristotle',
 		'&ldquo;Real riches are the riches possessed inside.&rdquo; <br /> &mdash;B. C. Forbes',
 		'&ldquo;It&rsquo;s kind of fun to do the impossible.&rdquo; <br /> &mdash;Walt Disney',
+		'&ldquo;Immature love says &lsquo;I love you because I need you.&rsquo; Mature love says &lsquo;I need you because I love you.&rsquo;&rdquo; <br /> &mdash;Erich Fromm',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;November 16 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;November 17 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let octoberArray = [
