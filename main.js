@@ -12,8 +12,9 @@ $(document).ready(function() {
 		'&ldquo;Reject your sense of injury and the injury itself disappears.&rdquo; <br /> &mdash;Marcus Aurelius',
 		'&ldquo;In war the heroes always outnumber the soldiers ten to one.&rdquo; <br /> &mdash;H. L. Mencken',
 		'&ldquo;The way to get things done is not to mind who gets the credit for doing them.&rdquo; <br /> &mdash;Benjamin Jowett',
+		'&ldquo;It is the mark of an educated mind to be able to entertain a thought without accepting it.&rdquo; <br /> &mdash;Aristotle',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;November 13 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;November 14 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let octoberArray = [
