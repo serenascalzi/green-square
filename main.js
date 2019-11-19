@@ -17,8 +17,9 @@ $(document).ready(function() {
 		'&ldquo;It&rsquo;s kind of fun to do the impossible.&rdquo; <br /> &mdash;Walt Disney',
 		'&ldquo;Immature love says &lsquo;I love you because I need you.&rsquo; Mature love says &lsquo;I need you because I love you.&rsquo;&rdquo; <br /> &mdash;Erich Fromm',
 		'&ldquo;The tigers of wrath are wiser than the horses of instruction.&rdquo; <br /> &mdash;William Blake',
+		'&ldquo;If I can stop one heart from breaking, I shall not live in vain.&rdquo; <br /> &mdash;Emily Dickinson',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;November 18 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;November 19 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let octoberArray = [
