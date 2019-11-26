@@ -23,8 +23,9 @@ $(document).ready(function() {
 		'&ldquo;The future belongs to those who believe in the beauty of their dreams.&rdquo; <br /> &mdash;Eleanor Roosevelt',
 		'&ldquo;Where there is love there is life.&rdquo; <br /> &mdash;Mahatma Gandhi',
 		'&ldquo;I am grateful for what I am and have. My thanksgiving is perpetual.&rdquo; <br /> &mdash;Henry David Thoreau',
+		'&ldquo;No man is an island, entire of itself; every man is a piece of the continent.&rdquo; <br /> &mdash;John Donne',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;November 24 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;November 25 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let octoberArray = [
