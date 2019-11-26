@@ -22,8 +22,9 @@ $(document).ready(function() {
 		'&ldquo;We choose our joys and sorrows long before we experience them.&rdquo; <br /> &mdash;Khalil Gibran',
 		'&ldquo;The future belongs to those who believe in the beauty of their dreams.&rdquo; <br /> &mdash;Eleanor Roosevelt',
 		'&ldquo;Where there is love there is life.&rdquo; <br /> &mdash;Mahatma Gandhi',
+		'&ldquo;I am grateful for what I am and have. My thanksgiving is perpetual.&rdquo; <br /> &mdash;Henry David Thoreau',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;November 23 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;November 24 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let octoberArray = [
