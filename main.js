@@ -20,8 +20,9 @@ $(document).ready(function() {
 		'&ldquo;If I can stop one heart from breaking, I shall not live in vain.&rdquo; <br /> &mdash;Emily Dickinson',
 		'&ldquo;Wise sayings often fall on barren ground, but a kind word is never thrown away.&rdquo; <br /> &mdash;Arthur Helps',
 		'&ldquo;We choose our joys and sorrows long before we experience them.&rdquo; <br /> &mdash;Khalil Gibran',
+		'&ldquo;The future belongs to those who believe in the beauty of their dreams.&rdquo; <br /> &mdash;Eleanor Roosevelt',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;November 21 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;November 22 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let octoberArray = [
