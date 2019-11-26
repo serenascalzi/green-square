@@ -21,8 +21,9 @@ $(document).ready(function() {
 		'&ldquo;Wise sayings often fall on barren ground, but a kind word is never thrown away.&rdquo; <br /> &mdash;Arthur Helps',
 		'&ldquo;We choose our joys and sorrows long before we experience them.&rdquo; <br /> &mdash;Khalil Gibran',
 		'&ldquo;The future belongs to those who believe in the beauty of their dreams.&rdquo; <br /> &mdash;Eleanor Roosevelt',
+		'&ldquo;Where there is love there is life.&rdquo; <br /> &mdash;Mahatma Gandhi',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;November 22 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;November 23 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let octoberArray = [
