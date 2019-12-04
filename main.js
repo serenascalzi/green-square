@@ -26,8 +26,9 @@ $(document).ready(function() {
 		'&ldquo;No man is an island, entire of itself; every man is a piece of the continent.&rdquo; <br /> &mdash;John Donne',
 		'&ldquo;In three words I can sum up everything I&rsquo;ve learned about life: it goes on.&rdquo; <br /> &mdash;Robert Frost',
 		'&ldquo;One that would have the fruit must climb the tree.&rdquo; <br /> &mdash;Thomas Fuller',
+		'&ldquo;Treasure the love you receive above all. It will survive long after your good health has vanished.&rdquo; <br /> &mdash;Og Mandino',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;November 27 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;November 28 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let octoberArray = [
