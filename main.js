@@ -25,8 +25,9 @@ $(document).ready(function() {
 		'&ldquo;I am grateful for what I am and have. My thanksgiving is perpetual.&rdquo; <br /> &mdash;Henry David Thoreau',
 		'&ldquo;No man is an island, entire of itself; every man is a piece of the continent.&rdquo; <br /> &mdash;John Donne',
 		'&ldquo;In three words I can sum up everything I&rsquo;ve learned about life: it goes on.&rdquo; <br /> &mdash;Robert Frost',
+		'&ldquo;One that would have the fruit must climb the tree.&rdquo; <br /> &mdash;Thomas Fuller',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;November 26 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;November 27 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let octoberArray = [
