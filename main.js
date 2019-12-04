@@ -1,7 +1,8 @@
 $(document).ready(function() {
 	let decemberArray = [
+		'&ldquo;Soul meets soul on lovers&rsquo; lips.&rdquo; <br /> &mdash;Percy Bysshe Shelley',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;December 1 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;December 2 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let novemberArray = [
