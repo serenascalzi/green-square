@@ -28,8 +28,9 @@ $(document).ready(function() {
 		'&ldquo;One that would have the fruit must climb the tree.&rdquo; <br /> &mdash;Thomas Fuller',
 		'&ldquo;Treasure the love you receive above all. It will survive long after your good health has vanished.&rdquo; <br /> &mdash;Og Mandino',
 		'&ldquo;You don&rsquo;t choose your family. They are God&rsquo;s gift to you, as you are to them.&rdquo; <br /> &mdash;Desmond Tutu',
+		'&ldquo;Never believe that a few caring people can&rsquo;t change the world. For, indeed, that&rsquo;s all who ever have.&rdquo; <br /> &mdash;Margaret Mead',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;November 29 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;November 30 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let octoberArray = [
