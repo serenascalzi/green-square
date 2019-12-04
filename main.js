@@ -1,4 +1,9 @@
 $(document).ready(function() {
+	let decemberArray = [
+		//'&ldquo; &rdquo; <br /> &mdash; ',
+		'&ldquo;December 1 Quote&rdquo; <br /> &mdash;Attribution'
+	]
+
 	let novemberArray = [
 		'&ldquo;You don&rsquo;t take a photograph, you make it.&rdquo; <br /> &mdash;Ansel Adams',
 		'&ldquo;It&rsquo;s not what you pay a man, but what he costs you that counts.&rdquo; <br /> &mdash;Will Rogers',
@@ -29,8 +34,7 @@ $(document).ready(function() {
 		'&ldquo;Treasure the love you receive above all. It will survive long after your good health has vanished.&rdquo; <br /> &mdash;Og Mandino',
 		'&ldquo;You don&rsquo;t choose your family. They are God&rsquo;s gift to you, as you are to them.&rdquo; <br /> &mdash;Desmond Tutu',
 		'&ldquo;Never believe that a few caring people can&rsquo;t change the world. For, indeed, that&rsquo;s all who ever have.&rdquo; <br /> &mdash;Margaret Mead',
-		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;November 30 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;Do what you can, with what you have, where you are.&rdquo; <br /> &mdash;Theodore Roosevelt'
 	]
 
 	let octoberArray = [
