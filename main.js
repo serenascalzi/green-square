@@ -5,8 +5,9 @@ $(document).ready(function() {
 		'&ldquo;Whenever you do a thing, act as if all the world were watching.&rdquo; <br /> &mdash;Thomas Jefferson',
 		'&ldquo;Failure will never overtake me if my determination to succeed is strong enough.&rdquo; <br /> &mdash;Og Mandino',
 		'&ldquo;Civilization began the first time an angry person cast a word instead of a rock.&rdquo; <br /> &mdash;Sigmund Freud',
+		'&ldquo;Leadership is influence.&rdquo; <br /> &mdash;John C. Maxwell',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;December 6 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;December 7 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let novemberArray = [
