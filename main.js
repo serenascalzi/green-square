@@ -6,8 +6,9 @@ $(document).ready(function() {
 		'&ldquo;Failure will never overtake me if my determination to succeed is strong enough.&rdquo; <br /> &mdash;Og Mandino',
 		'&ldquo;Civilization began the first time an angry person cast a word instead of a rock.&rdquo; <br /> &mdash;Sigmund Freud',
 		'&ldquo;Leadership is influence.&rdquo; <br /> &mdash;John C. Maxwell',
+		'&ldquo;Love has no age, no limit; and no death.&rdquo; <br /> &mdash;John Galsworthy',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;December 7 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;December 8 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let novemberArray = [
