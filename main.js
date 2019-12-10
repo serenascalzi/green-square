@@ -3,8 +3,9 @@ $(document).ready(function() {
 		'&ldquo;Soul meets soul on lovers&rsquo; lips.&rdquo; <br /> &mdash;Percy Bysshe Shelley',
 		'&ldquo;Conflict cannot survive without your participation.&rdquo; <br /> &mdash;Wayne Dyer',
 		'&ldquo;Whenever you do a thing, act as if all the world were watching.&rdquo; <br /> &mdash;Thomas Jefferson',
+		'&ldquo;Failure will never overtake me if my determination to succeed is strong enough.&rdquo; <br /> &mdash;Og Mandino',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;December 4 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;December 5 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let novemberArray = [
