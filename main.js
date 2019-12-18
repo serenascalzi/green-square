@@ -14,8 +14,9 @@ $(document).ready(function() {
 		'&ldquo;Order and simplification are the first steps toward the mastery of a subject.&rdquo; <br /> &mdash;Thomas Mann',
 		'&ldquo;Love may be or it may not, but where it is, it ought to reveal itself in its immensity.&rdquo; <br /> &mdash;Honore de Balzac',
 		'&ldquo;There are no secrets that time does not reveal.&rdquo; <br /> &mdash;Jean Racine',
+		'&ldquo;Nothing can have value without being an object of utility.&rdquo; <br /> &mdash;Karl Marx',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;December 15 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;December 16 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let novemberArray = [
