@@ -11,8 +11,9 @@ $(document).ready(function() {
 		'&ldquo;There is nothing new in the world except the history you do not know.&rdquo; <br /> &mdash;Harry S. Truman',
 		'&ldquo;We are most alive when we&rsquo;re in love.&rdquo; <br /> &mdash;John Updike',
 		'&ldquo;Not knowing anything is the sweetest life.&rdquo; <br /> &mdash;Sophocles',
+		'&ldquo;Order and simplification are the first steps toward the mastery of a subject.&rdquo; <br /> &mdash;Thomas Mann',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;December 12 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;December 13 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let novemberArray = [
