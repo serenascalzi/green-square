@@ -15,8 +15,9 @@ $(document).ready(function() {
 		'&ldquo;Love may be or it may not, but where it is, it ought to reveal itself in its immensity.&rdquo; <br /> &mdash;Honore de Balzac',
 		'&ldquo;There are no secrets that time does not reveal.&rdquo; <br /> &mdash;Jean Racine',
 		'&ldquo;Nothing can have value without being an object of utility.&rdquo; <br /> &mdash;Karl Marx',
+		'&ldquo;People fall forward to success.&rdquo; <br /> &mdash;Mary Kay Ash',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;December 16 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;December 17 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let novemberArray = [
