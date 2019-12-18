@@ -16,8 +16,9 @@ $(document).ready(function() {
 		'&ldquo;There are no secrets that time does not reveal.&rdquo; <br /> &mdash;Jean Racine',
 		'&ldquo;Nothing can have value without being an object of utility.&rdquo; <br /> &mdash;Karl Marx',
 		'&ldquo;People fall forward to success.&rdquo; <br /> &mdash;Mary Kay Ash',
+		'&ldquo;From a small seed a mighty trunk may grow.&rdquo; <br /> &mdash;Aeschylus',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;December 17 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;December 18 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let novemberArray = [
