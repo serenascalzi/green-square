@@ -21,8 +21,9 @@ $(document).ready(function() {
 		'&ldquo;In life, as in chess, forethought wins.&rdquo; <br /> &mdash;Charles Buxton',
 		'&ldquo;Forgiveness is the final form of love.&rdquo; <br /> &mdash;Reinhold Niebuhr',
 		'&ldquo;Things are not quite so simple always as black and white.&rdquo; <br /> &mdash;Doris Lessing',
+		'&ldquo;Be faithful in small things because it is in them that your strength lies.&rdquo; <br /> &mdash;Mother Teresa',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;December 22 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;December 23 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let novemberArray = [
