@@ -24,8 +24,9 @@ $(document).ready(function() {
 		'&ldquo;Be faithful in small things because it is in them that your strength lies.&rdquo; <br /> &mdash;Mother Teresa',
 		'&ldquo;Wonder is the feeling of the philosopher, and philosophy begins in wonder.&rdquo; <br /> &mdash;Plato',
 		'&ldquo;For it is in giving that we receive.&rdquo; <br /> &mdash;Francis of Assisi',
+		'&ldquo;Christmas is the day that holds all time together.&rdquo; <br /> &mdash;Alexander Smith',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;December 25 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;December 26 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let novemberArray = [
