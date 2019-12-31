@@ -29,8 +29,8 @@ $(document).ready(function() {
 		'&ldquo;The great thing about getting older is that you don&rsquo;t lose all the other ages you&rsquo;ve been.&rdquo; <br /> &mdash;Madeleine L&rsquo;Engle',
 		'&ldquo;Great minds have purposes; others have wishes.&rdquo; <br /> &mdash;Washington Irving',
 		'&ldquo;Sincerity is the way to heaven.&rdquo; <br /> &mdash;Mencius',
-		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;December 30 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;The limits of the possible can only be defined by going beyond them into the impossible.&rdquo; <br /> &mdash;Arthur C. Clarke',
+		'&ldquo;December 31 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let novemberArray = [
