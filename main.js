@@ -28,8 +28,9 @@ $(document).ready(function() {
 		'&ldquo;&rsquo;Tis not enough to help the feeble up, but to support them after.&rdquo; <br /> &mdash;William Shakespeare',
 		'&ldquo;The great thing about getting older is that you don&rsquo;t lose all the other ages you&rsquo;ve been.&rdquo; <br /> &mdash;Madeleine L&rsquo;Engle',
 		'&ldquo;Great minds have purposes; others have wishes.&rdquo; <br /> &mdash;Washington Irving',
+		'&ldquo;Sincerity is the way to heaven.&rdquo; <br /> &mdash;Mencius',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;December 29 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;December 30 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let novemberArray = [
@@ -461,7 +462,7 @@ $(document).ready(function() {
 		monthArray = decemberArray
 	}
 
-	let dayOfMonth = date.getDate() - 2
+	let dayOfMonth = date.getDate()
 
 	let year = date.getFullYear()
 
