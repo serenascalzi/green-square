@@ -19,8 +19,9 @@ $(document).ready(function() {
 		'&ldquo;From a small seed a mighty trunk may grow.&rdquo; <br /> &mdash;Aeschylus',
 		'&ldquo;Vanity working on a weak head, produces every sort of mischief.&rdquo; <br /> &mdash;Jane Austen',
 		'&ldquo;In life, as in chess, forethought wins.&rdquo; <br /> &mdash;Charles Buxton',
+		'&ldquo;Forgiveness is the final form of love.&rdquo; <br /> &mdash;Reinhold Niebuhr',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;December 20 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;December 21 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let novemberArray = [
