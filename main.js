@@ -25,8 +25,9 @@ $(document).ready(function() {
 		'&ldquo;Wonder is the feeling of the philosopher, and philosophy begins in wonder.&rdquo; <br /> &mdash;Plato',
 		'&ldquo;For it is in giving that we receive.&rdquo; <br /> &mdash;Francis of Assisi',
 		'&ldquo;Christmas is the day that holds all time together.&rdquo; <br /> &mdash;Alexander Smith',
+		'&ldquo;&rsquo;Tis not enough to help the feeble up, but to support them after.&rdquo; <br /> &mdash;William Shakespeare',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;December 26 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;December 27 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let novemberArray = [
