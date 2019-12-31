@@ -22,8 +22,9 @@ $(document).ready(function() {
 		'&ldquo;Forgiveness is the final form of love.&rdquo; <br /> &mdash;Reinhold Niebuhr',
 		'&ldquo;Things are not quite so simple always as black and white.&rdquo; <br /> &mdash;Doris Lessing',
 		'&ldquo;Be faithful in small things because it is in them that your strength lies.&rdquo; <br /> &mdash;Mother Teresa',
+		'&ldquo;Wonder is the feeling of the philosopher, and philosophy begins in wonder.&rdquo; <br /> &mdash;Plato',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;December 23 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;December 24 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let novemberArray = [
@@ -455,7 +456,7 @@ $(document).ready(function() {
 		monthArray = decemberArray
 	}
 
-	let dayOfMonth = date.getDate()
+	let dayOfMonth = date.getDate() - 7
 
 	let year = date.getFullYear()
 
