@@ -18,8 +18,9 @@ $(document).ready(function() {
 		'&ldquo;People fall forward to success.&rdquo; <br /> &mdash;Mary Kay Ash',
 		'&ldquo;From a small seed a mighty trunk may grow.&rdquo; <br /> &mdash;Aeschylus',
 		'&ldquo;Vanity working on a weak head, produces every sort of mischief.&rdquo; <br /> &mdash;Jane Austen',
+		'&ldquo;In life, as in chess, forethought wins.&rdquo; <br /> &mdash;Charles Buxton',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;December 19 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;December 20 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let novemberArray = [
