@@ -17,8 +17,9 @@ $(document).ready(function() {
 		'&ldquo;Nothing can have value without being an object of utility.&rdquo; <br /> &mdash;Karl Marx',
 		'&ldquo;People fall forward to success.&rdquo; <br /> &mdash;Mary Kay Ash',
 		'&ldquo;From a small seed a mighty trunk may grow.&rdquo; <br /> &mdash;Aeschylus',
+		'&ldquo;Vanity working on a weak head, produces every sort of mischief.&rdquo; <br /> &mdash;Jane Austen',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;December 18 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;December 19 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let novemberArray = [
