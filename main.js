@@ -30,7 +30,7 @@ $(document).ready(function() {
 		'&ldquo;Great minds have purposes; others have wishes.&rdquo; <br /> &mdash;Washington Irving',
 		'&ldquo;Sincerity is the way to heaven.&rdquo; <br /> &mdash;Mencius',
 		'&ldquo;The limits of the possible can only be defined by going beyond them into the impossible.&rdquo; <br /> &mdash;Arthur C. Clarke',
-		'&ldquo;December 31 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;And now we welcome the new year. Full of things that have never been.&rdquo; <br /> &mdash;Rainer Maria Rilke'
 	]
 
 	let novemberArray = [
