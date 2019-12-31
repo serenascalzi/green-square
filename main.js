@@ -26,8 +26,9 @@ $(document).ready(function() {
 		'&ldquo;For it is in giving that we receive.&rdquo; <br /> &mdash;Francis of Assisi',
 		'&ldquo;Christmas is the day that holds all time together.&rdquo; <br /> &mdash;Alexander Smith',
 		'&ldquo;&rsquo;Tis not enough to help the feeble up, but to support them after.&rdquo; <br /> &mdash;William Shakespeare',
+		'&ldquo;The great thing about getting older is that you don&rsquo;t lose all the other ages you&rsquo;ve been.&rdquo; <br /> &mdash;Madeleine L&rsquo;Engle',
 		//'&ldquo; &rdquo; <br /> &mdash; ',
-		'&ldquo;December 27 Quote&rdquo; <br /> &mdash;Attribution'
+		'&ldquo;December 28 Quote&rdquo; <br /> &mdash;Attribution'
 	]
 
 	let novemberArray = [
