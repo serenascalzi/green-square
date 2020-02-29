@@ -364,7 +364,7 @@ $(document).ready(function() {
 		'&ldquo;Great dancers are not great because of their technique, they are great because of their passion.&rdquo; <br /> &mdash;Martha Graham',
 		'&ldquo;I believe that every human mind feels pleasure in doing good to another.&rdquo; <br /> &mdash;Thomas Jefferson',
 		'&ldquo;Perfection is attained by slow degrees; it requires the hand of time.&rdquo; <br /> &mdash;Voltaire',
-		'&ldquo;You can never plan the future by the past.&rdquo; <br /> &mdash;Edmund Burke'
+		'&ldquo;The purpose of life is a life of purpose.&rdquo; <br /> &mdash;Robert Byrne'
     ]
 
 	let januaryArray = [
