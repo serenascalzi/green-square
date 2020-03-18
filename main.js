@@ -319,7 +319,7 @@ $(document).ready(function() {
 		'&ldquo;Love takes off masks that we fear we cannot live without and know we cannot live within.&rdquo; <br /> &mdash;James Baldwin',
 		'&ldquo;Try to keep your soul young and quivering right up to old age.&rdquo; <br /> &mdash;George Sand',
 		'&ldquo;Be true to your work, your word, and your friend.&rdquo; <br /> &mdash;John Boyle O&rsquo;Reilly',
-		'&ldquo;Who has a harder fight than he who is striving to overcome himself.&rdquo; <br /> &mdash;Thomas &agrave; Kempis',
+		'&ldquo;Who has a harder fight than he who is striving to overcome himself.&rdquo; <br /> &mdash;Thomas a Kempis',
 		'&ldquo;It&rsquo;s hard to be humble, when you&rsquo;re as great as I am.&rdquo; <br /> &mdash;Muhammad Ali',
 		'&ldquo;Most people have the will to win, few have the will to prepare to win.&rdquo; <br /> &mdash;Bobby Knight',
 		'&ldquo;You exist only in what you do.&rdquo; <br /> &mdash;Federico Fellini',
