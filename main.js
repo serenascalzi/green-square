@@ -280,7 +280,7 @@ $(document).ready(function() {
 		'&ldquo;Find something you&rsquo;re passionate about and keep tremendously interested in it.&rdquo; <br /> &mdash;Julia Child',
 		'&ldquo;Cherish all your happy moments; they make a fine cushion for old age.&rdquo; <br /> &mdash;Booth Tarkington',
 		'&ldquo;All change is not growth, as all movement is not forward.&rdquo; <br /> &mdash;Ellen Glasgow',
-		'&ldquo;Perfection is the child of time.&rdquo; <br /> &mdash;Joseph Hall',
+		'&ldquo;God loves each of us as if there were only one of us.&rdquo; <br /> &mdash;Saint Augustine',
 		'&ldquo;The glow of one warm thought is to me worth more than money.&rdquo; <br /> &mdash;Thomas Jefferson',
 		'&ldquo;Innovation distinguishes between a leader and a follower.&rdquo; <br /> &mdash;Steve Jobs',
 		'&ldquo;In this world nothing can be said to be certain, except death and taxes.&rdquo; <br /> &mdash;Benjamin Franklin',
