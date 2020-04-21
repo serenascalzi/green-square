@@ -288,7 +288,7 @@ $(document).ready(function() {
 		'&ldquo;The hardest thing to understand in the world is the income tax.&rdquo; <br /> &mdash;Albert Einstein',
 		'&ldquo;Better remain silent, better not even think, if you are not prepared to act.&rdquo; <br /> &mdash;Annie Besant',
 		'&ldquo;No matter what people tell you, words and ideas can change the world.&rdquo; <br /> &mdash;Robin Williams',
-		'&ldquo;God loves each of us as if there were only one of us.&rdquo; <br /> &mdash;Saint Augustine',
+		'&ldquo;Perfection is the child of time.&rdquo; <br /> &mdash;Joseph Hall',
 		'&ldquo;A rebirth out of spiritual adversity causes us to become new creatures.&rdquo; <br /> &mdash;James E. Faust',
 		'&ldquo;Try to be like the turtle &ndash; at ease in your own shell.&rdquo; <br /> &mdash;Bill Copeland',
 		'&ldquo;Either I will find a way, or I will make one.&rdquo; <br /> &mdash;Philip Sidney',
