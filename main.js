@@ -239,7 +239,7 @@ $(document).ready(function() {
 		'&ldquo;Change your life today. Don&rsquo;t gamble on the future, act now, without delay.&rdquo; <br /> &mdash;Simone de Beauvoir',
 		'&ldquo;Reading is to the mind what exercise is to the body.&rdquo; <br /> &mdash;Joseph Addison',
 		'&ldquo;Your own mind is a sacred enclosure into which nothing harmful can enter except by your permission.&rdquo; <br /> &mdash;Arnold Bennett',
-		'&ldquo;Love consists in this, that two solitudes protect and touch and greet each other.&rdquo; <br /> &mdash;Rainer Maria Rilke',
+		'&ldquo;Friends are the siblings God never gave us.&rdquo; <br /> &mdash;Mencius',
 		'&ldquo;Imagination is the eye of the soul.&rdquo; <br /> &mdash;Joseph Joubert',
 		'&ldquo;What would life be if we had no courage to attempt anything?&rdquo; <br /> &mdash;Vincent Van Gogh',
 		'&ldquo;It is amazing what you can accomplish if you do not care who gets the credit.&rdquo; <br /> &mdash;Harry S. Truman',
