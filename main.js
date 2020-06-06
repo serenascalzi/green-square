@@ -207,7 +207,7 @@ $(document).ready(function() {
 		'&ldquo;A friend is one who knows you and loves you just the same.&rdquo; <br /> &mdash;Elbert Hubbard',
 		'&ldquo;The greater our knowledge increases the more our ignorance unfolds.&rdquo; <br /> &mdash;John F. Kennedy',
 		'&ldquo;Principles have no real force except when one is well-fed.&rdquo; <br /> &mdash;Mark Twain',
-		'&ldquo;It is the soothing thing about history that it does repeat itself.&rdquo; <br /> &mdash;Gertrude Stein',
+		'&ldquo;Hope is the only bee that makes honey without flowers.&rdquo; <br /> &mdash;Robert Green Ingersoll',
 		'&ldquo;There are no shortcuts in evolution.&rdquo; <br /> &mdash;Louis D. Brandeis',
 		'&ldquo;Immorality: the morality of those who are having a better time.&rdquo; <br /> &mdash;H. L. Mencken',
 		'&ldquo;If you obey all the rules you miss all the fun.&rdquo; <br /> &mdash;Katharine Hepburn',
