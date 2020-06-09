@@ -210,7 +210,7 @@ $(document).ready(function() {
 		'&ldquo;Hope is the only bee that makes honey without flowers.&rdquo; <br /> &mdash;Robert Green Ingersoll',
 		'&ldquo;There are no shortcuts in evolution.&rdquo; <br /> &mdash;Louis D. Brandeis',
 		'&ldquo;Immorality: the morality of those who are having a better time.&rdquo; <br /> &mdash;H. L. Mencken',
-		'&ldquo;If you obey all the rules you miss all the fun.&rdquo; <br /> &mdash;Katharine Hepburn',
+		'&ldquo;Hope is like the sun, which, as we journey toward it, casts the shadow of our burden behind us.&rdquo; <br /> &mdash;Samuel Smiles',
 		'&ldquo;No amount of experimentation can ever prove me right; a single experiment can prove me wrong.&rdquo; <br /> &mdash;Albert Einstein',
 		'&ldquo;You cannot shake hands with a clenched fist.&rdquo; <br /> &mdash;Indira Gandhi',
 		'&ldquo;Parents were invented to make children happy by giving them something to ignore.&rdquo; <br /> &mdash;Ogden Nash',
