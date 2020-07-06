@@ -172,7 +172,7 @@ $(document).ready(function() {
 		'&ldquo;It has been my experience that folks who have no vices have very few virtues.&rdquo; <br /> &mdash;Abraham Lincoln',
 		'&ldquo;Give me liberty or give me death.&rdquo; <br /> &mdash;Patrick Henry',
 		'&ldquo;Independence is happiness.&rdquo; <br /> &mdash;Susan B. Anthony',
-		'&ldquo;Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.&rdquo; <br /> &mdash;Lao Tzu',
+		'&ldquo;Courage is knowing what not to fear.&rdquo; <br /> &mdash;Plato',
 		'&ldquo;Laws are like sausages, it is better not to see them being made.&rdquo; <br /> &mdash;Otto von Bismarck',
 		'&ldquo;Travel becomes a strategy for accumulating photographs.&rdquo; <br /> &mdash;Susan Sontag',
 		'&ldquo;Sports do not build character. They reveal it.&rdquo; <br /> &mdash;Heywood Broun',
