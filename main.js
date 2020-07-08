@@ -175,7 +175,7 @@ $(document).ready(function() {
 		'&ldquo;Courage is knowing what not to fear.&rdquo; <br /> &mdash;Plato',
 		'&ldquo;Laws are like sausages, it is better not to see them being made.&rdquo; <br /> &mdash;Otto von Bismarck',
 		'&ldquo;Travel becomes a strategy for accumulating photographs.&rdquo; <br /> &mdash;Susan Sontag',
-		'&ldquo;Sports do not build character. They reveal it.&rdquo; <br /> &mdash;Heywood Broun',
+		'&ldquo;Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.&rdquo; <br /> &mdash;Lao Tzu',
 		'&ldquo;People only see what they are prepared to see.&rdquo; <br /> &mdash;Ralph Waldo Emerson',
 		'&ldquo;He is happiest, be he king or peasant, who finds peace in his home.&rdquo; <br /> &mdash;Johann Wolfgang von Goethe',
 		'&ldquo;You are remembered for the rules you break.&rdquo; <br /> &mdash;Douglas MacArthur',
