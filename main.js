@@ -183,7 +183,7 @@ $(document).ready(function() {
 		'&ldquo;We first make our habits, and then our habits make us.&rdquo; <br /> &mdash;John Dryden',
 		'&ldquo;History is a vast early warning system.&rdquo; <br /> &mdash;Norman Cousins',
 		'&ldquo;I have no money, no resources, no hopes. I am the happiest man alive.&rdquo; <br /> &mdash;Henry Miller',
-		'&ldquo;When you arrive at a fork in the road, take it.&rdquo; <br /> &mdash;Yogi Berra',
+		'&ldquo;Faith is the bird that feels the light when the dawn is still dark.&rdquo; <br /> &mdash;Rabindranath Tagore',
 		'&ldquo;Life consists not in holding good cards but in playing those you hold well.&rdquo; <br /> &mdash;Josh Billings',
 		'&ldquo;Nothing great in the world has ever been accomplished without passion.&rdquo; <br /> &mdash;Georg Wilhelm Friedrich Hegel',
 		'&ldquo;Better keep yourself clean and bright; you are the window through which you must see the world.&rdquo; <br /> &mdash;George Bernard Shaw',
