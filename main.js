@@ -192,7 +192,7 @@ $(document).ready(function() {
 		'&ldquo;Maybe this world is another planet&rsquo;s hell.&rdquo; <br /> &mdash;Aldous Huxley',
 		'&ldquo;Consistency is the last refuge of the unimaginative.&rdquo; <br /> &mdash;Oscar Wilde',
 		'&ldquo;We live in a rainbow of chaos.&rdquo; <br /> &mdash;Paul Cezanne',
-		'&ldquo;Never go to a doctor whose office plants have died.&rdquo; <br /> &mdash;Erma Bombeck',
+		'&ldquo;Laughter is the closest distance between two people.&rdquo; <br /> &mdash;Victor Borge',
 		'&ldquo;Diplomacy is the art of saying &lsquo;Nice doggie&rsquo; until you can find a rock.&rdquo; <br /> &mdash;Will Rogers',
 		'&ldquo;The unexamined life is not worth living.&rdquo; <br /> &mdash;Socrates',
 		'&ldquo;Freedom is never given; it is won.&rdquo; <br /> &mdash;A. Philip Randolph',
