@@ -139,7 +139,7 @@ $(document).ready(function() {
 		'&ldquo;If we open a quarrel between past and present, we shall find that we have lost the future.&rdquo; <br /> &mdash;Winston Churchill',
 		'&ldquo;A somebody was once a nobody who wanted to and did.&rdquo; <br /> &mdash;John Burroughs',
 		'&ldquo;When ambition ends, happiness begins.&rdquo; <br /> &mdash;Thomas Merton',
-		'&ldquo;The reward of suffering is experience.&rdquo; <br /> &mdash;Harry S. Truman',
+		'&ldquo;Ideologies separate us. Dreams and anguish bring us together.&rdquo; <br /> &mdash;Eugene Ionesco',
 		'&ldquo;We boil at different degrees.&rdquo; <br /> &mdash;Clint Eastwood',
 		'&ldquo;When one must, one can.&rdquo; <br /> &mdash;Charlotte Whitton',
 		'&ldquo;If we have no peace, it is because we have forgotten that we belong to each other.&rdquo; <br /> &mdash;Mother Teresa',
