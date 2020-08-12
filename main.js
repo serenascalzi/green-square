@@ -145,7 +145,7 @@ $(document).ready(function() {
 		'&ldquo;If we have no peace, it is because we have forgotten that we belong to each other.&rdquo; <br /> &mdash;Mother Teresa',
 		'&ldquo;No legacy is so rich as honesty.&rdquo; <br /> &mdash;William Shakespeare',
 		'&ldquo;Act as if what you do makes a difference. It does.&rdquo; <br /> &mdash;William James',
-		'&ldquo;Sadness flies away on the wings of time.&rdquo; <br /> &mdash;Jean de La Fontaine',
+		'&ldquo;Don&rsquo;t judge each day by the harvest you reap but by the seeds that you plant.&rdquo; <br /> &mdash;Robert Louis Stevenson',
 		'&ldquo;If you want others to be happy, practice compassion. If you want to be happy, practice compassion.&rdquo; <br /> &mdash;Dalai Lama',
 		'&ldquo;Happiness is a direction, not a place.&rdquo; <br /> &mdash;Sydney J. Harris',
 		'&ldquo;Happiness is not a goal; it is a by-product.&rdquo; <br /> &mdash;Eleanor Roosevelt',
