@@ -162,7 +162,7 @@ $(document).ready(function() {
 		'&ldquo;The best way out is always through.&rdquo; <br /> &mdash;Robert Frost',
 		'&ldquo;I have the simplest tastes. I am always satisfied with the best.&rdquo; <br /> &mdash;Oscar Wilde',
 		'&ldquo;To see things in the seed, that is genius.&rdquo; <br /> &mdash;Lao Tzu',
-		'&ldquo;He who loves 50 people has 50 woes; he who loves no one has no woes.&rdquo; <br /> &mdash;Buddha',
+		'&ldquo;Thinking: the talking of the soul with itself.&rdquo; <br /> &mdash;Plato',
 		'&ldquo;Good questions outrank easy answers.&rdquo; <br /> &mdash;Paul Samuelson',
 		'&ldquo;Any sufficiently advanced technology is indistinguishable from magic.&rdquo; <br /> &mdash;Arthur C. Clarke'
 	]
