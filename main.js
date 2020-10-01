@@ -67,7 +67,7 @@ $(document).ready(function() {
 	]
 
 	let octoberArray = [
-		'&ldquo;We are all here on earth to help others; what on earth the others are here for I don&rsquo;t know.&rdquo; <br /> &mdash;W. H. Auden',
+		'&ldquo;Two roads diverged in a wood and I &ndash; I took the one less traveled by, and that has made all the difference.&rdquo; <br /> &mdash;Robert Frost',
 		'&ldquo;Just because something doesn&rsquo;t do what you planned it to do doesn&rsquo;t mean it&rsquo;s useless.&rdquo; <br /> &mdash;Thomas A. Edison',
 		'&ldquo;Happiness is not something ready made. It comes from your own actions.&rdquo; <br /> &mdash;Dalai Lama',
 		'&ldquo;Hope is patience with the lamp lit.&rdquo; <br /> &mdash;Tertullian',
