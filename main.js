@@ -70,7 +70,7 @@ $(document).ready(function() {
 		'&ldquo;Two roads diverged in a wood and I &ndash; I took the one less traveled by, and that has made all the difference.&rdquo; <br /> &mdash;Robert Frost',
 		'&ldquo;Just because something doesn&rsquo;t do what you planned it to do doesn&rsquo;t mean it&rsquo;s useless.&rdquo; <br /> &mdash;Thomas A. Edison',
 		'&ldquo;Happiness is not something ready made. It comes from your own actions.&rdquo; <br /> &mdash;Dalai Lama',
-		'&ldquo;Hope is patience with the lamp lit.&rdquo; <br /> &mdash;Tertullian',
+		'&ldquo;The greatest use of a life is to spend it on something that will outlast it.&rdquo; <br /> &mdash;William James',
 		'&ldquo;If opportunity doesn&rsquo;t knock, build a door.&rdquo; <br /> &mdash;Milton Berle',
 		'&ldquo;Every story I create, creates me. I write to create myself.&rdquo; <br /> &mdash;Octavia E. Butler',
 		'&ldquo;The soul that is within me no man can degrade.&rdquo; <br /> &mdash;Frederick Douglass',
